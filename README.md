@@ -140,9 +140,9 @@ F : < 70
 | 6. Project 4: Deployment Focus (team) | 5% | 
 | 7. Project 5: User Experience Focus (team) | 5% |
 | 8. Project 6: Systems Integration Focus (team) | 5% |
-| 9. Individual Requirements Analysis for Semester Project | 10% |
+| 9. Individual Requirements Analysis for Semester Project | 5% |
 | 10. Semester Project Team Requirements Document | 5% |
-| 11. Team Sprint 1 | 10% |
+| 11. Team Sprint 1 | 5% |
 | 12. Team Sprint 2 | 10% |
 | 13. Team Sprint 3 | 10% |
 | 14. Team Sprint 4 | 10% |
