@@ -1,5 +1,10 @@
 # TW2 - Tuesday Lab, Week 2
 
+## Resources
+1. Markdown Syntax Reference: https://daringfireball.net/projects/markdown/syntax
+2. [Markdown Syntax Reference](https://daringfireball.net/projects/markdown/syntax)
+
+## Lab
 1. Create a directory structure in the personal repository you created for assignment called `lecture-labs`, and underneath that directory, create two other directories to start: `tw2` (Tuesday, Week 2) and `rw2` (Thursday Week 2): 
 	- lecture-labs
 		- tw2
