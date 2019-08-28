@@ -16,4 +16,4 @@
 6. Commit a revision to your github repository for the course. 
 7. Prepare for Thursday: 
     - You will need a local installation of postgresql 
-    - There is one available for every operationg system: https://www.postgresql.org/download/
+    - There is one available for every operating system: https://www.postgresql.org/download/
