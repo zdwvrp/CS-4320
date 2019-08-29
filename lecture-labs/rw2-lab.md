@@ -38,14 +38,11 @@
 8. Then you need to create the schema, and give the user permission to create things!
 ```
 
-        - -- ----------------------------
         CREATE SCHEMA augur_data;
         CREATE SCHEMA augur_operations;
         CREATE SCHEMA spdx;
-        -- create the schemas
-        -- ----------------------------
 
-        GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA augur_data TO augur;
+	GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA augur_data TO augur;
         GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA augur_data TO augur;
         GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA augur_operations TO augur;
         GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA augur_operations TO augur;
