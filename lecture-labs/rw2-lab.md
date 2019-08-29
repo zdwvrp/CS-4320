@@ -54,6 +54,9 @@
         GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA spdx TO augur;
 ```
 9. Run SQL: `\i /Users/sgoggins/github/computationalmystic/sengfs19/lecture-labs/code/spdx.sql`
-
+10. Commit what your progress under the 
+            - lecture-labs
+                - rw2
+directory. 
 
 
