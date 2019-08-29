@@ -49,7 +49,8 @@
         GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA spdx TO augur;
         GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA spdx TO augur;
 ```
-9. Run SQL: `\i /Users/sgoggins/github/computationalmystic/sengfs19/lecture-labs/code/spdx.sql`
+9. Run SQL: (MOST PEOPLE did this in class using a web tool or other GUI. So, if you have done that, running this at the command line will not work, because the objects already exist). 
+	`\i /Users/sgoggins/github/computationalmystic/sengfs19/lecture-labs/code/spdx.sql`
 10. Commit what your progress under the 
             - lecture-labs
                 - rw2
