@@ -23,18 +23,17 @@
 6. You need to create a database user
     - For Linux**
 ```
-    sudo -u postgres psql
-    postgres=# create database augur;
-    postgres=# create user augur with encrypted password 'mypass';
-    postgres=# grant all privileges on database augur to augur;
+    -- sudo -u postgres psql
+    create database augur;
+    create user augur with encrypted password 'mypass';
+    grant all privileges on database augur to augur;
 
 ```
     - For Mac OSX**  
 ```
-    $ pgsql postgres
-    postgres=# create database augur;
-    postgres=# create user augur with encrypted password 'mypass';
-    postgres=# grant all privileges on database augur to augur;
+    create database augur;
+    create user augur with encrypted password 'mypass';
+    grant all privileges on database augur to augur;
 ```
 8. Then you need to create the schema, and give the user permission to create things!
 ```
