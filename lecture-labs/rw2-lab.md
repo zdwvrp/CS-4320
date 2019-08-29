@@ -53,7 +53,7 @@
         GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA spdx TO augur;
         GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA spdx TO augur;
 ```
-
+9. Run SQL: `\i /Users/sgoggins/github/computationalmystic/sengfs19/lecture-labs/code/spdx.sql`
 
 
 
