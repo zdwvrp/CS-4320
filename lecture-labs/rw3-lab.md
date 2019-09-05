@@ -3,8 +3,7 @@
 ### Steps in Lab
 1. Review Materials (15 Minutes) 
     - Review the Role of the customer
-    - Read the description on the CHAOSS and Augur Projects
-    - Read the customer statement of need
+    - Read the customer statement of need (description on the CHAOSS and Augur Projects)
     - Read the description of your assigned role. 
         - Customer
         - User 1
