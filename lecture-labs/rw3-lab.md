@@ -22,12 +22,12 @@ You will have one hour to perform the brainstorming activities. Spend 20 minutes
 For the idea generation phase, be creative but phrase the ideas in
 terms of requirements for the CHAOSS-Augur system. 
 
-    - If your ideas describe features, capture them in terms of functional requirements.
-    - If your ideas describe responses, capture them as system requirements.
+- If your ideas describe features, capture them in terms of functional requirements.
+- If your ideas describe responses, capture them as system requirements.
 
 Designate one person in the group to write down each complete idea on a single list.
 
 During the consolidation phase, the requirements analyst reads through the list of requirements (ideas) one at a time. The entire group then classifies each requirement in two ways: 
 
-    - first by practical (good ideas that can be investigated immediately, ideas that need long range or involved study, and unusable ideas) and then 
-    - by priority (ideas that absolutely must be implemented, those that are desirable but not urgently needed, and those that should be added only if time and money permit). Any new ideas generated in this phase should be considered for addition to the final list
+- first by practical (good ideas that can be investigated immediately, ideas that need long range or involved study, and unusable ideas) and then 
+- by priority (ideas that absolutely must be implemented, those that are desirable but not urgently needed, and those that should be added only if time and money permit). Any new ideas generated in this phase should be considered for addition to the final list
