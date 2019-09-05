@@ -5,7 +5,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | **Assignments** | **Percentage of Grade** | **Due Date ** | **Readings** | 
 | --- | --- | --- | --- | --- |
 | 1. GitHub Assignment | 4% | August 26, 2019 | Goggins-Notes-Book-Form.pdf |
-| 2. Resume Submission | 1% | September 3, 2019 | n/a | 
+| 2. Resume Submission | 1% | September 3, 2019 | na | 
 | 3. Project 1: Requirements Focus (individual) | 5% | September 9, 2019 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
 | 4. Project 2: Design Focus (team) | 5% |  September 16, 2019 | [SWEBOK Design](../readings/SWEBOK-Design.pdf) | 
 | 5. Project 3: Testing Focus (individual) | 5% | September 23, 2019 |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) | 
