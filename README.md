@@ -2,6 +2,11 @@
 
 **First: Join the Slack Channel** : http://bit.ly/2KI1BJh 
 
+**Office Hours: ** 
+
+- Caleb: 3:30-4:30 MWF
+- Sean : 2pm - 3:50pm Mondays, **except** September 16, 2019, which will be 1pm to 2:50pm. 
+
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
  - Graduate students enrolled in the course will be perform additional literature review and semester project work.
@@ -26,7 +31,7 @@ My nephew, [Sean McGuire](https://www.bluebombers.com/players/sean-mcguire/16425
 3. The first few weeks we will work through tooling issues with you, after that we expect you have learned how to use the slack channel and Google Each other. 
 4. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/2KI1BJh  
 
-##Topics
+## Topics
 1. Overview of Software / Systems engineering and Development Life-cycle
 2. Project Management: Collaborative Development, Software Economics, Resource
 3. Version Control Systems
