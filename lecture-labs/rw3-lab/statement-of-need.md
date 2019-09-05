@@ -5,7 +5,9 @@ The CHAOSS-Augur of the Applications Division, hereafter referred to as the cont
     - issue identification 
     - community management
 
-To accomplish this, they have constructed an initial system, called "Augur"
+To accomplish this, they have constructed an initial system, called "Augur".
+
+One of the significant challenges for open source is to understand how projects, often composed of 3 - 12 or more .git repositories, look with regards to overall "health". We require a perspective that looks within that group of 3-12 or more repositories, as well as a perspective that allows people to compare "their project" with "other, similar projects", and possibly IDENTIFY other, similar projects. 
 
 ## Overview
 People compare themselves with others. We build on this truth to help people make sense of the metrics we prototype. The aim of the Augur project is threefold:
