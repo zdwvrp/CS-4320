@@ -12,7 +12,7 @@
         - Software Engineer
 2. Perform requirements elicitation using the brainstorming technique.
 
-### Brainsotorming Phase
+### Brainstorming Phase
 Your group is to perform a requirements elicitation activity using the brainstorming technique. The goal is for the group to generate a set of requirements, written in English sentences, for the CHAOSS-Augur software
 system.
 
