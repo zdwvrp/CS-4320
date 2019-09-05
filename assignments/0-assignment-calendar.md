@@ -3,7 +3,7 @@
 This is the assignment calendar, and should be considered a work in progress. This "WIP" status means that we will adapt deadlines based on how quickly the class moves through the curriculum, and if we think there are other skills that we need to help you develop than we initially anticipated. For example, thus far, the preparation of this class in database technology is more consistent than in prior semesters, so we will probably not focus on that as much going forward. 
 
 | **Assignments** | **Percentage of Grade** | **Due Date ** | **Readings** | 
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1. GitHub Assignment | 4% | August 26, 2019 | Goggins-Notes-Book-Form.pdf |
 | 2. Resume Submission | 1% | September 3, 2019 | n/a | 
 | 3. Project 1: Requirements Focus (individual) | 5% | September 9, 2019 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
