@@ -2,7 +2,7 @@
 
 **First: Join the Slack Channel** : http://bit.ly/2KI1BJh 
 
-**Office Hours: ** 
+**Office Hours:** 
 
 - Caleb: 3:30-4:30 MWF
 - Sean : 2pm - 3:50pm Mondays, **except** September 16, 2019, which will be 1pm to 2:50pm. 
