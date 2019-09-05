@@ -4,8 +4,8 @@
 
 **Office Hours:** 
 
-- Caleb: 3:30-4:30 MWF
-- Sean : 2pm - 3:50pm Mondays, **except** September 16, 2019, which will be 1pm to 2:50pm. 
+- Caleb: 3:30-4:30 MWF (Naka 239)
+- Sean : 2pm - 3:50pm Mondays, **except** September 16, 2019, which will be 1pm to 2:50pm. (Naka 113)
 
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
