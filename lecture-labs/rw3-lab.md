@@ -2,7 +2,7 @@
 
 ### Steps in Lab
 1. Review Materials (15 Minutes) 
-    - Review the description of the software services group 
+    - Review the Role of the customer
     - Read the description on the CHAOSS and Augur Projects
     - Read the customer statement of need
     - Read the description of your assigned role. 
