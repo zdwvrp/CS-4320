@@ -1,18 +1,18 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : New Augur
+ Source Server         : mudcats augur
  Source Server Type    : PostgreSQL
  Source Server Version : 110005
- Source Host           : nekocase.augurlabs.io:5433
- Source Catalog        : augur
+ Source Host           : mudcats.augurlabs.io:5433
+ Source Catalog        : twitter_prod
  Source Schema         : spdx
 
  Target Server Type    : PostgreSQL
  Target Server Version : 110005
  File Encoding         : 65001
 
- Date: 29/08/2019 13:26:35
+ Date: 04/09/2019 12:30:18
 */
 
 
@@ -47,7 +47,7 @@ DROP SEQUENCE IF EXISTS "spdx"."augur_repo_map_map_id_seq";
 CREATE SEQUENCE "spdx"."augur_repo_map_map_id_seq" 
 INCREMENT 1
 MINVALUE  1
-MAXVALUE 2147483647
+MAXVALUE 9223372036854775807
 START 1
 CACHE 1;
 ALTER SEQUENCE "spdx"."augur_repo_map_map_id_seq" OWNER TO "augur";
@@ -324,9 +324,8 @@ ALTER TABLE "spdx"."annotations" OWNER TO "augur";
 -- ----------------------------
 DROP TABLE IF EXISTS "spdx"."augur_repo_map";
 CREATE TABLE "spdx"."augur_repo_map" (
-  "map_id" int4 NOT NULL DEFAULT nextval('"spdx".augur_repo_map_map_id_seq'::regclass),
-  "dosocs_pkg_id" int4,
-  "dosocs_pkg_name" text COLLATE "pg_catalog"."default",
+  "map_id" int8 NOT NULL DEFAULT nextval('"spdx".augur_repo_map_map_id_seq'::regclass),
+  "dosocs_pkg_name" int4,
   "repo_id" int4,
   "repo_path" text COLLATE "pg_catalog"."default"
 )
@@ -617,73 +616,73 @@ ALTER TABLE "spdx"."scanners" OWNER TO "augur";
 -- ----------------------------
 ALTER SEQUENCE "spdx"."annotation_types_annotation_type_id_seq"
 OWNED BY "spdx"."annotation_types"."annotation_type_id";
-SELECT setval('"spdx"."annotation_types_annotation_type_id_seq"', 7, true);
+SELECT setval('"spdx"."annotation_types_annotation_type_id_seq"', 4, true);
 ALTER SEQUENCE "spdx"."annotations_annotation_id_seq"
 OWNED BY "spdx"."annotations"."annotation_id";
-SELECT setval('"spdx"."annotations_annotation_id_seq"', 4, false);
+SELECT setval('"spdx"."annotations_annotation_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."augur_repo_map_map_id_seq"
 OWNED BY "spdx"."augur_repo_map"."map_id";
-SELECT setval('"spdx"."augur_repo_map_map_id_seq"', 2336, true);
+SELECT setval('"spdx"."augur_repo_map_map_id_seq"', 2, false);
 ALTER SEQUENCE "spdx"."creator_types_creator_type_id_seq"
 OWNED BY "spdx"."creator_types"."creator_type_id";
-SELECT setval('"spdx"."creator_types_creator_type_id_seq"', 9, true);
+SELECT setval('"spdx"."creator_types_creator_type_id_seq"', 5, true);
 ALTER SEQUENCE "spdx"."creators_creator_id_seq"
 OWNED BY "spdx"."creators"."creator_id";
-SELECT setval('"spdx"."creators_creator_id_seq"', 5, true);
+SELECT setval('"spdx"."creators_creator_id_seq"', 3, true);
 ALTER SEQUENCE "spdx"."document_namespaces_document_namespace_id_seq"
 OWNED BY "spdx"."document_namespaces"."document_namespace_id";
-SELECT setval('"spdx"."document_namespaces_document_namespace_id_seq"', 222, true);
+SELECT setval('"spdx"."document_namespaces_document_namespace_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."documents_creators_document_creator_id_seq"
 OWNED BY "spdx"."documents_creators"."document_creator_id";
-SELECT setval('"spdx"."documents_creators_document_creator_id_seq"', 222, true);
+SELECT setval('"spdx"."documents_creators_document_creator_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."documents_document_id_seq"
 OWNED BY "spdx"."documents"."document_id";
-SELECT setval('"spdx"."documents_document_id_seq"', 222, true);
+SELECT setval('"spdx"."documents_document_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."external_refs_external_ref_id_seq"
 OWNED BY "spdx"."external_refs"."external_ref_id";
-SELECT setval('"spdx"."external_refs_external_ref_id_seq"', 4, false);
+SELECT setval('"spdx"."external_refs_external_ref_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."file_contributors_file_contributor_id_seq"
 OWNED BY "spdx"."file_contributors"."file_contributor_id";
-SELECT setval('"spdx"."file_contributors_file_contributor_id_seq"', 4, false);
+SELECT setval('"spdx"."file_contributors_file_contributor_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."file_types_file_type_id_seq"
 OWNED BY "spdx"."file_types"."file_type_id";
-SELECT setval('"spdx"."file_types_file_type_id_seq"', 25, true);
+SELECT setval('"spdx"."file_types_file_type_id_seq"', 13, true);
 ALTER SEQUENCE "spdx"."files_file_id_seq"
 OWNED BY "spdx"."files"."file_id";
-SELECT setval('"spdx"."files_file_id_seq"', 2800199, true);
+SELECT setval('"spdx"."files_file_id_seq"', 49926, true);
 ALTER SEQUENCE "spdx"."files_licenses_file_license_id_seq"
 OWNED BY "spdx"."files_licenses"."file_license_id";
-SELECT setval('"spdx"."files_licenses_file_license_id_seq"', 1246235, true);
+SELECT setval('"spdx"."files_licenses_file_license_id_seq"', 18413, true);
 ALTER SEQUENCE "spdx"."files_scans_file_scan_id_seq"
 OWNED BY "spdx"."files_scans"."file_scan_id";
-SELECT setval('"spdx"."files_scans_file_scan_id_seq"', 2784767, true);
+SELECT setval('"spdx"."files_scans_file_scan_id_seq"', 49926, true);
 ALTER SEQUENCE "spdx"."identifiers_identifier_id_seq"
 OWNED BY "spdx"."identifiers"."identifier_id";
-SELECT setval('"spdx"."identifiers_identifier_id_seq"', 160521, true);
+SELECT setval('"spdx"."identifiers_identifier_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."licenses_license_id_seq"
 OWNED BY "spdx"."licenses"."license_id";
-SELECT setval('"spdx"."licenses_license_id_seq"', 832, true);
+SELECT setval('"spdx"."licenses_license_id_seq"', 354, true);
 ALTER SEQUENCE "spdx"."packages_files_package_file_id_seq"
 OWNED BY "spdx"."packages_files"."package_file_id";
-SELECT setval('"spdx"."packages_files_package_file_id_seq"', 5454519, true);
+SELECT setval('"spdx"."packages_files_package_file_id_seq"', 165316, true);
 ALTER SEQUENCE "spdx"."packages_package_id_seq"
 OWNED BY "spdx"."packages"."package_id";
-SELECT setval('"spdx"."packages_package_id_seq"', 3191, true);
+SELECT setval('"spdx"."packages_package_id_seq"', 114, true);
 ALTER SEQUENCE "spdx"."packages_scans_package_scan_id_seq"
 OWNED BY "spdx"."packages_scans"."package_scan_id";
-SELECT setval('"spdx"."packages_scans_package_scan_id_seq"', 2906, true);
+SELECT setval('"spdx"."packages_scans_package_scan_id_seq"', 114, true);
 ALTER SEQUENCE "spdx"."projects_project_id_seq"
 OWNED BY "spdx"."projects"."project_id";
-SELECT setval('"spdx"."projects_project_id_seq"', 4, false);
+SELECT setval('"spdx"."projects_project_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."relationship_types_relationship_type_id_seq"
 OWNED BY "spdx"."relationship_types"."relationship_type_id";
-SELECT setval('"spdx"."relationship_types_relationship_type_id_seq"', 63, true);
+SELECT setval('"spdx"."relationship_types_relationship_type_id_seq"', 32, true);
 ALTER SEQUENCE "spdx"."relationships_relationship_id_seq"
 OWNED BY "spdx"."relationships"."relationship_id";
-SELECT setval('"spdx"."relationships_relationship_id_seq"', 640827, true);
+SELECT setval('"spdx"."relationships_relationship_id_seq"', 3, false);
 ALTER SEQUENCE "spdx"."scanners_scanner_id_seq"
 OWNED BY "spdx"."scanners"."scanner_id";
-SELECT setval('"spdx"."scanners_scanner_id_seq"', 5, true);
+SELECT setval('"spdx"."scanners_scanner_id_seq"', 4, true);
 
 -- ----------------------------
 -- Uniques structure for table annotation_types
@@ -800,8 +799,8 @@ ALTER TABLE "spdx"."files_scans" ADD CONSTRAINT "files_scans_pkey" PRIMARY KEY (
 -- ----------------------------
 ALTER TABLE "spdx"."identifiers" ADD CONSTRAINT "uc_identifier_document_namespace_id" UNIQUE ("document_namespace_id", "id_string");
 ALTER TABLE "spdx"."identifiers" ADD CONSTRAINT "uc_identifier_namespace_document_id" UNIQUE ("document_namespace_id", "document_id");
-ALTER TABLE "spdx"."identifiers" ADD CONSTRAINT "uc_identifier_namespace_package_id" UNIQUE ("document_namespace_id", "package_id");
 ALTER TABLE "spdx"."identifiers" ADD CONSTRAINT "uc_identifier_namespace_package_file_id" UNIQUE ("document_namespace_id", "package_file_id");
+ALTER TABLE "spdx"."identifiers" ADD CONSTRAINT "uc_identifier_namespace_package_id" UNIQUE ("document_namespace_id", "package_id");
 
 -- ----------------------------
 -- Checks structure for table identifiers
@@ -826,8 +825,8 @@ ALTER TABLE "spdx"."licenses" ADD CONSTRAINT "licenses_pkey" PRIMARY KEY ("licen
 -- ----------------------------
 -- Uniques structure for table packages
 -- ----------------------------
-ALTER TABLE "spdx"."packages" ADD CONSTRAINT "uc_package_sha256" UNIQUE ("sha256");
 ALTER TABLE "spdx"."packages" ADD CONSTRAINT "uc_dir_code_ver_code" UNIQUE ("verification_code", "dosocs2_dir_code");
+ALTER TABLE "spdx"."packages" ADD CONSTRAINT "uc_package_sha256" UNIQUE ("sha256");
 
 -- ----------------------------
 -- Checks structure for table packages

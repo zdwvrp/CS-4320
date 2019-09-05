@@ -2,13 +2,13 @@
 
 This is the assignment calendar, and should be considered a work in progress. This "WIP" status means that we will adapt deadlines based on how quickly the class moves through the curriculum, and if we think there are other skills that we need to help you develop than we initially anticipated. For example, thus far, the preparation of this class in database technology is more consistent than in prior semesters, so we will probably not focus on that as much going forward. 
 
-| **Assignments** | **Percentage of Grade** | **Due Date ** |
+| **Assignments** | **Percentage of Grade** | **Due Date ** | **Readings** | 
 | --- | --- | --- |
-| 1. GitHub Assignment | 4% | August 26, 2019 |
-| 2. Resume Submission | 1% | September 3, 2019 |
-| 3. Project 1: Requirements Focus (individual) | 5% | September 9, 2019 |
-| 4. Project 2: Design Focus (team) | 5% |  September 16, 2019 |
-| 5. Project 3: Testing Focus (individual) | 5% | September 23, 2019 |
+| 1. GitHub Assignment | 4% | August 26, 2019 | Goggins-Notes-Book-Form.pdf |
+| 2. Resume Submission | 1% | September 3, 2019 | n/a | 
+| 3. Project 1: Requirements Focus (individual) | 5% | September 9, 2019 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
+| 4. Project 2: Design Focus (team) | 5% |  September 16, 2019 | [SWEBOK Design](../readings/SWEBOK-Design.pdf) | 
+| 5. Project 3: Testing Focus (individual) | 5% | September 23, 2019 |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) | 
 | 6. Project 4: Deployment Focus (team) | 5% | September 30, 2019 | 
 | 7. Project 5: User Experience Focus (team) | 5% | October 7, 2019 |
 | 8. Project 6: Systems Integration Focus (team) | 5% | October 14, 2019 |
