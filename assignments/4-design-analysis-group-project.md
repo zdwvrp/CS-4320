@@ -21,7 +21,7 @@ Create a document with a title page, including your group, group member names an
     - Draw IO : http://www.draw.io (Links to an external site.) (recommended by Jeremy)
 
 ### Step 2
-  - To provide a common base for this assignment, all groups will be working from the same requirements based off of Exercise 2. However, you will not have that until February 12. Until then, you will work off your own “best estimates” of the requirements. Familiarize yourself as individuals and as a team with these requirements and ask questions in the Slack channel #design to clarify anything that needs clarified.
+  - [To provide a common base for this assignment, all groups will be working from the same requirements based off of Exercise 2](./4-assignment-3-support-files/4-Design-requirements.md). Familiarize yourself as individuals and as a team with these requirements and ask questions in the Slack channel #design to clarify anything that needs clarified.
 
 ### Step 3
   - In lecture, we covered a few types of Unified Modeling Language (UML) diagrams:
@@ -34,9 +34,12 @@ Create a document with a title page, including your group, group member names an
   - Your team is responsible for several diagrams. Each individual should contribute to three different types of diagrams, through either independent design, design collaboration, or careful peer review of a finished diagram. 
     - Carefully plan responsibilities for design and peer review so each individual works on three different types of diagrams and each of the following is accomplished:
     - For one of the activities in the Requirements document, create a Use Case Diagram and the associated Use Case Description.
-    - For 5-person teams, take two of the Activities, and for 6-person teams, take 3 of the Activities (different activities than the use case) in the Requirements document create an activity diagram to demonstrate the flow of the system. Each individual should contribute to an activity diagram.
+    - For 3-person teams, take three of the Activities, and for 4-person teams, take 4 of the Activities (different activities than the use case) in the Requirements document and create an activity diagram to demonstrate the flow of the system. Each individual should contribute to an activity diagram.
     - For one of the Activities in the Requirements document (a different Activity) create a class diagram to demonstrate the class(es) and entity relations.
-    - For each of the other three types of UML diagrams in the list above, use it to represent another part of the system. This includes an Entity-Relationship diagram, a sequence diagram, and a state machine.
+    - For each of the other three types of UML diagrams in the list above, use it to represent another part of the system. This includes 
+       - an Entity-Relationship diagram, 
+       - a sequence diagram, and 
+       - a state machine.
 
 ### Step 4
   - Compile the diagrams into the group document as described under Deliverable.
