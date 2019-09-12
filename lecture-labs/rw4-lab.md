@@ -7,7 +7,7 @@
     - Take a photo of your diagram
     - Upload it to one of your team member repositories 
     - Every member of the group should past a link in today's lab markdown to the photo uploaded, which can take the form of the full url in a simple markdown document for this lab's folder, referencing where your team's picture is. 
-5. (5 minutes)[Reference the readings available to ensure that you have a full understanding of the materials at your disposal for understanding the design process](../../assignments/4-assignment-3-support-files/DesignReadings.md)
+5. (5 minutes)[Reference the readings available to ensure that you have a full understanding of the materials at your disposal for understanding the design process](../assignments/4-assignment-3-support-files/DesignReadings.md)
 6. (25 minutes) Create, as for as you can, a full ERD for the system you are constructing using paper and pen or pencil. Your assignment requires you to submit this in a digital tool, but we are sketching it out now. **You May want to have each group member take 1 or 2 of the users of the system and do independent models, which you later integrate. If. you do that, just upload the photo of your contribution to your repository**
     - Take a photo of your diagram
     - Upload it to one of your team member repositories 
