@@ -49,6 +49,20 @@ Create a document with a title page, including your group, group member names an
   - Your work will be assessed on the completeness, consistency, clarity and notational correctness of your group design and your adherence to the scope of the project.
   - Your Group Assignment is due in each team members repository at 11:59 pm on Wednesday, September 18, 2019.
  
- 
+## Assignment Summary Posted to Slack (To make it easier. If you identify an inconsistency with the above, blame Dr. Goggins and submit an issue on this repository's GitHub.)
+_Things to Include:_
+1. Table of contents
+2. One Use Case Diagram for 1 activitya. Use Case Description
+3. Three Activity Diagrams for 1 activity each
+4. Class Diagram for 1 activity
+5. Entity Relationship Diagram for whole system
+6. Sequence Diagram for 1 activity
+7. State Machine Diagram
+8. Everyone Must:
+  - Contribute to 3 total diagrams
+  - Contribute to at least 1 activity diagramAdditional Requirements for Each Diagram:
+  - Title
+  - Caption
+  - Who contributed to diagram
 
 
