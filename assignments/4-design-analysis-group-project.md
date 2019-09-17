@@ -59,10 +59,10 @@ _Things to Include:_
 6. Sequence Diagram for 1 activity
 7. State Machine Diagram
 8. Everyone Must:
-  - Contribute to 3 total diagrams
-  - Contribute to at least 1 activity diagramAdditional Requirements for Each Diagram:
-  - Title
-  - Caption
-  - Who contributed to diagram
+    - Contribute to 3 total diagrams
+    - Contribute to at least 1 activity diagramAdditional Requirements for Each Diagram:
+    - Title
+    - Caption
+    - Who contributed to diagram
 
 
