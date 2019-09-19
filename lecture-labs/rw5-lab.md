@@ -1,6 +1,6 @@
 # Thursday Lab: Tutorial on PyTest
 
-After reading instructions, start here: [Assignment 5](../../../assignments/5-Testing.md)
+After reading instructions, start here: [Assignment 5](../../assignments/5-Testing.md)
 
 1. Complete the setup instructions under assignment 5-testing in the assignments folder
 2. This is an individual assignment, but we want you to work on it in groups of two in class. 
