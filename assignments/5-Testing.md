@@ -10,6 +10,6 @@
 ## Complete Assignment
 1. Finish as much of the tutorial as you need to. 
 2. Write five tests for functions in your design document. 
-3. Write five python files that fail those tests. 
-4. Write five python files that pass those tests. (One for each test!)
+3. Write five python files that pass those tests. (One for each test!)
+4. Run the tests with data you expect to fail and show the failed test. 
 
