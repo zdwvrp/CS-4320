@@ -8,8 +8,8 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 2. Resume Submission | 1% | September 3, 2019 | na | 
 | 3. Project 1: Requirements Focus (individual) | 5% | September 9, 2019 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
 | 4. Project 2: Design Focus (team) | 5% |  September 18, 2019 (Wednesday) | [SWEBOK Design](../readings/SWEBOK-Design.pdf) | 
-| 5. Project 3: Testing Focus (individual) | 5% | September 23, 2019 |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) | 
-| 6. Project 4: Deployment Focus (team) | 5% | September 30, 2019 | - |
+| 5. Project 3: Testing Focus (individual) | 5% | September 25, 2019 (Wednesday) |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) | 
+| 6. Project 4: Deployment Focus (team) | 5% | October 5, 2019 (Saturday) | Instructions on September 26th in class |
 | 7. Project 5: User Experience Focus (team)* | 5% | October 7, 2019 | - |
 | 8. Project 6: Systems Integration Focus (team) | 5% | October 14, 2019 | - |
 | 9. Individual Requirements Analysis for Semester Project | 5% | October 21, 2019 | - |
