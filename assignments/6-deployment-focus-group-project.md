@@ -6,12 +6,15 @@
 ```
 virtualenv --python=python3 project4
 ```
-You should see something like: 
+You should see something like:
+``` 
     Already using interpreter /usr/bin/python3
     Using base prefix '/usr'
     New python executable in /home/sgoggins/project4/bin/python3
     Also creating executable in /home/sgoggins/project4/bin/python
     Installing setuptools, pkg_resources, pip, wheel...done.
+```
+
 5. Activate your virtual environment `source project4/bin/activate`
 6. Clone Augur: git clone https://github.com/chaoss/augur.git
 7. Checkout the `class-demo` branch: 
@@ -45,5 +48,5 @@ logout
 ```
     - When prompted, install at command line
     - When prompted, install frontend dependencies
-12. Have these steps completed before class on Tuesday, October 1. If you have installation or setup issues, submit them to the Slack Channel. 
+12. Have these steps completed before class on Tuesday, October 1. **If you have installation or setup issues, submit them to the Slack Channel.** 
 
