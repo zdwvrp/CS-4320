@@ -9,10 +9,10 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 3. Project 1: Requirements Focus (individual) | 5% | September 9, 2019 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
 | 4. Project 2: Design Focus (team) | 5% |  September 18, 2019 (Wednesday) | [SWEBOK Design](../readings/SWEBOK-Design.pdf) | 
 | 5. Project 3: Testing Focus (individual) | 5% | September 25, 2019 (Wednesday) |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) | 
-| 6. Project 4: Deployment Focus (team) | 5% | October 5, 2019 (Saturday) | Instructions on September 26th in class |
-| 7. Project 5: User Experience Focus (team)* | 5% | October 7, 2019 | - |
-| 8. Project 6: Systems Integration Focus (team) | 5% | October 14, 2019 | - |
-| 9. Individual Requirements Analysis for Semester Project | 5% | October 21, 2019 | - |
+| 6. Project 4: Deployment Focus (team) | 5% | October 10, 2019 (Wednesday) | Instructions on September 26th in class |
+| 7. Project 5: User Experience Focus + Integration Focus (team)* | 10% | October 21, 2019 | [SWEBOK Testing](../readings/SWEBOK-Construction.pdf) |
+| 8. Combined with Project 5 Now (team) | 5% | N/A | [SWEBOK Testing](../readings/SWEBOK-Maintenance.pdf) |
+| 9. Individual Requirements Analysis for Semester Project | 5% | October 25, 2019 | - |
 | 10. Semester Project Team Requirements Document | 5% | October 28, 2019 | - |
 | 11. Team Sprint 1 | 5% | November 4, 2019 | - |
 | 12. Team Sprint 2 | 10% | November 11, 2019 | - |
