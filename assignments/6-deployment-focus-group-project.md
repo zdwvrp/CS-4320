@@ -25,7 +25,8 @@ You should see something like:
     - `git checkout class-demo`
 8. Create your postgres database
 ```
-    sudo -u postgres psql
+    sudo -u postgres 
+    psql
     postgres=# create database augur;
     postgres=# create user augur with encrypted password 'mypass';
     postgres=# grant all privileges on database augur to augur;
