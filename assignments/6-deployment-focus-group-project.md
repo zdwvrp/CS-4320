@@ -66,7 +66,7 @@ logout
     - Put a copy of the team design document you are using, or a link to it, at the top of your file
 6. When you have finished with your branch, issue a pull request and have one of your team mates merge it. 
 7. Together, build a final document called 'overview.md', which includes the following: 
-    - List of core objects that seem consistent across all of your designs/documents/to-dos
+    - List of core objects from your to-dos (integrate you lists, identify any overlaps, smooth out overlaps [i.e., do not list login twice, make one list], submit a consolidated list.)
     - A short 3-5 sentence description of what your next steps would be if you were building this project as a team. 
 
 
