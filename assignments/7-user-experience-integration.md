@@ -13,4 +13,12 @@ In this exercise you will build a data visualization using data served up at thi
 2. Provide a visualization of total pull requests merged for each project that illustrates the proportion of pull requests each contributor of a pull request is responsible for. 
 3. Class on October 15 is when we are reviewing this information and going over it. 
 
+## Resources
+1. https://chrome.google.com/webstore/detail/jsonview/gmegofmjomhknnokphhckolhcffdaihd?hl=en-US
+2. http://augur.osshealth.io/api_docs/ Api Docs
+3. http://augur.osshealth.io:5000/api/unstable/repos Repo Listing
+4. http://augur.osshealth.io:5000/api/unstable/repo-groups/24/repos/21625/pull-requests-merge-contributor-new New contributor merge requests
+5. https://help.github.com/en/categories/working-with-github-pages Getting started with GitHub Pages, which is what the Twitter example uses
+6. 
+
 
