@@ -2,6 +2,7 @@
 
 This is the assignment calendar, and should be considered a work in progress. This "WIP" status means that we will adapt deadlines based on how quickly the class moves through the curriculum, and if we think there are other skills that we need to help you develop than we initially anticipated. For example, thus far, the preparation of this class in database technology is more consistent than in prior semesters, so we will probably not focus on that as much going forward. 
 
+
 | **Assignments** | **Percentage of Grade** | **Due Date** | **Readings** | 
 | --- | --- | -- | --- | 
 | 1. GitHub Assignment | 4% | August 26, 2019 | [Goggins Book Notes](../readings/Goggins-Notes-Book-Form.pdf) |
