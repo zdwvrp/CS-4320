@@ -5,7 +5,7 @@
     - `git pull` in augur directory or `git clone https://github.com/chaoss/augur.git`
     - git checkout simple-api-demo
     - `make install`
-    - `cd `
+    - `cd frontend-rewrite-demo`
     - `npm i`
     - `npm run serve`
     - Open browser developer console
