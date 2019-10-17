@@ -8,6 +8,10 @@ In this exercise you will build a data visualization using data served up at thi
 4. The source for the Twitter year in review site is here: https://github.com/sgoggins/twitter.github.io
 5. There is a more complex and integrated strategy in the Augur project you have already cloned. 
 
+## Endpoints to look at: 
+1. http://augur.osshealth.io:5000/api/unstable/repos : repo list
+2. http://augur.osshealth.io:5000/api/unstable/repo-groups : repo group list 
+
 ## Details
 1. Provide a visualization of total commits for each project that illustrates the proportion of commits each contributor is responsible for. http://augur.osshealth.io/api_docs/#api-Experimental-top_committers_repo
 2. Provide a visualization of total pull request acceptance rate over time http://augur.osshealth.io:5000/api/unstable/repo-groups/24/repos/21623/pull-request-acceptance-rate 

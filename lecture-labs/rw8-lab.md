@@ -12,6 +12,7 @@
     - choose a repository group
     - choose a repository
     - "get contributors"
-
-
+3. Update NodeJS and NPM if you get errors on the `npm i`
+    - ubuntu (your servers) : `sudo apt upgrade nodejs` and `sudo apt upgrade npm`
+    - mac : `brew upgrade nodejs` &     `brew upgrade npm`
 
