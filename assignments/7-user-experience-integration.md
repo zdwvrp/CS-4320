@@ -13,7 +13,7 @@ In this exercise you will build a data visualization using data served up at thi
 2. http://augur.osshealth.io:5000/api/unstable/repo-groups : repo group list 
 
 ## Details
-1. Provide a visualization of total commits for each project that illustrates the proportion of commits each contributor is responsible for. http://augur.osshealth.io/api_docs/#api-Experimental-top_committers_repo
+1. Provide a visualization of total commits for each project that illustrates the proportion of commits each contributor is responsible for. http://augur.osshealth.io/api_docs/#api-Experimental-top_committers_repo example: http://augur.osshealth.io:5000/api/unstable/repo-groups/24/repos/21623/top-committers
 2. Provide a visualization of total pull request acceptance rate over time http://augur.osshealth.io:5000/api/unstable/repo-groups/24/repos/21623/pull-request-acceptance-rate 
 3. Provide one other visualization. 
 3. Class on October 15 is when we are reviewing this information and going over it. 
