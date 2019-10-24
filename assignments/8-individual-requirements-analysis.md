@@ -16,6 +16,7 @@ With hundreds of thousands of open source projects, technology companies and IT 
  - https://github.com/chaoss/wg-evolution
  - https://github.com/chaoss/wg-risk
  - https://github.com/chaoss/wg-common
+ - https://oss-augur.readthedocs.io/en/master/getting-started/getting-started-toc.html
 
 ## Deliverable
 Create a document with a title page, including your name and the exercise name. Then complete the steps below, presenting the information in an organized fashion. When you are finished, one of you submit a PDF of your document to Canvas.
