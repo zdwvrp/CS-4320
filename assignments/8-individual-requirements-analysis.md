@@ -24,7 +24,7 @@ Create a document with a title page, including your name and the exercise name. 
 ### Step 0 
 - Make sure you understand the problem. You can ask questions in the Slack channels, and review the resources listed above.
 - Orient yourself to the structure and criteria of requirements specification success (keeping in mind your document will be MUCH smaller than the examples). 
-    - [Advanced Software Requirements Lecture](../lecture-notes/18. Advanced-Requirements-SRS.pdf)
+    - [Advanced Software Requirements Lecture]('../lecture-notes/18. Advanced-Requirements-SRS.pdf')
     - [Example One](../lecture-notes/18b. SRS-Example.pdf)
     - [Example Two](../lecture-notes/18c. SRS-Example-2.pdf)
 
