@@ -25,8 +25,8 @@ Create a document with a title page, including your name and the exercise name. 
 - Make sure you understand the problem. You can ask questions in the Slack channels, and review the resources listed above.
 - Orient yourself to the structure and criteria of requirements specification success (keeping in mind your document will be MUCH smaller than the examples). 
     - [Advanced Software Requirements Lecture](../lecture-notes/18.%20Advanced-Requirements-SRS.pdf)
-    - [Example One](../lecture-notes/18b. SRS-Example.pdf)
-    - [Example Two](../lecture-notes/18c. SRS-Example-2.pdf)
+    - [Example One](../lecture-notes/18b.%20SRS-Example.pdf)
+    - [Example Two](../lecture-notes/18c.%20SRS-Example-2.pdf)
 
 ### Step 1  
 - Create an outline for your software requirements specification in a document. 
