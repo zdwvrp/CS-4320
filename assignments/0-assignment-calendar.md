@@ -11,7 +11,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 4. Project 2: Design Focus (team) | 5% |  September 18, 2019 (Wednesday) | [SWEBOK Design](../readings/SWEBOK-Design.pdf) | 
 | 5. Project 3: Testing Focus (individual) | 5% | September 25, 2019 (Wednesday) |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) | 
 | 6. Project 4: Deployment Focus (team) | 5% | October 13, 2019 (Sunday) | Instructions on September 26th in class; Updates October 8 and 10 |
-| 7. Project 5: User Experience Focus + Integration Focus (team)* | 10% | October 25, 2019 | [SWEBOK Construction](../readings/SWEBOK-Construction.pdf) |
+| 7. Project 5: User Experience Focus + Integration Focus (team)* | 10% | October 27, 2019 | [SWEBOK Construction](../readings/SWEBOK-Construction.pdf) |
 | 8. Combined with Project 5 Now (team) | 5% | N/A | [SWEBOK Maintenance](../readings/SWEBOK-Maintenance.pdf) |
 | 9. Individual Requirements Analysis for Semester Project | 5% | October 25, 2019 | - |
 | 10. Semester Project Team Requirements Document | 5% | October 28, 2019 | - |
