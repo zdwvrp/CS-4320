@@ -12,12 +12,11 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 5. Project 3: Testing Focus (individual) | 5% | September 25, 2019 (Wednesday) |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) | 
 | 6. Project 4: Deployment Focus (team) | 5% | October 13, 2019 (Sunday) | Instructions on September 26th in class; Updates October 8 and 10 |
 | 7. Project 5: User Experience Focus + Integration Focus (team)* | 10% | October 27, 2019 | [SWEBOK Construction](../readings/SWEBOK-Construction.pdf) |
-| 8. Combined with Project 5 Now (team) | 5% | N/A | [SWEBOK Maintenance](../readings/SWEBOK-Maintenance.pdf) |
-| 9. Individual Requirements Analysis for Semester Project | 5% | October 25, 2019 | - |
-| 10. Semester Project Team Requirements Document | 5% | October 28, 2019 | - |
-| 11. Team Sprint 1 | 5% | November 4, 2019 | - |
-| 12. Team Sprint 2 | 10% | November 11, 2019 | - |
-| 13. Team Sprint 3 | 10% | November 18, 2019 | - |
-| 14. Team Sprint 4 | 10% | December 5, 2019 | - |
-| 15. Final Exam | 10% | December 9, 2019, 7:30am - 9:30am [Per Provost Website](https://registrar.missouri.edu/academic-calendar/final-exam-schedule/) | - |
-| 16. Classroom Participation | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
+| 8. Combined with Project 5 Now (team) | 5% | October 27, 2019 (Sunday) | [SWEBOK Maintenance](../readings/SWEBOK-Maintenance.pdf) |
+| 9. Individual Requirements Analysis for Semester Project | 5% | November 4, 2019 | [Software Requirements](../readings/leffingwell-widrig.pdf) |
+| 10. Team Sprint 1 | 10% | November 4, 2019 | - |
+| 11. Team Sprint 2 | 10% | November 11, 2019 | - |
+| 12. Team Sprint 3 | 10% | November 18, 2019 | - |
+| 13. Team Sprint 4 | 10% | December 5, 2019 | - |
+| 14. Final Exam | 10% | December 9, 2019, 7:30am - 9:30am [Per Provost Website](https://registrar.missouri.edu/academic-calendar/final-exam-schedule/) | - |
+| 15. Classroom Participation | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
