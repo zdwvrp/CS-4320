@@ -4,7 +4,7 @@
 
 **Office Hours:** 
 
-- Caleb: 3:30-4:30 MWF (Naka 239)
+- Caleb: 3:30-4:30 MWF (Naka 242)
 - Sean : 2pm - 3:50pm Mondays, **except** September 9, 2019, which will be 3-4pm, and September 16, 2019, which will be 1pm to 2:50pm. (Naka 113)
 
 ## Introduction
