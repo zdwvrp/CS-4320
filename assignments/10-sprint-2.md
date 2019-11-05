@@ -21,6 +21,11 @@
 2. Decide on what the routes.py stubs will be for these endpoints and implement them 
 3. Implement one endpoint fully. It does not have to be correct at this point. 
 
+## Frontend Teams
+1. Identify 3 front end designs that you will build for the project. These can be different than your sprint 1 proposal if you decide to make a change. 
+2. Decide where each proposed new front end piece will fit in the Augur design. You don't have to put it directly in Augur right now, but you should think about where it fits in the overall information architecture. 
+3. Implement one UI page fully. It does not need to be correct or fully functional, but it should show *some* actual data. 
+
 ## Individual Teams
 1. Make a commit to your repository illustrating progress on the issue or issues you have selected. 
 2. Make an appointment with Dr. Goggins to review your selected issue. 
