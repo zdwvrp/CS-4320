@@ -10,7 +10,7 @@
     - A README.md file that explains what you are doing in this sprint, and provides a detailed description of the intended design. "Detailed" should keep in mind that you are building something that is "in addition to" the base code that you have to work with, so you do not need to specify/design the system. Only your intended additions to it. 
     - Make changes to this document as you work so that your progress can be monitored by your team mates. 
 5. Ensure that everyone on  your team has a their own branch on your repository. 
-6. Turn in a public link where your project will be working. We assume we can see the code in your GitHub repos. 
+6. Turn in a public link where your project will be working. We assume we can see the code in your GitHub repos. **YOU ONLY NEED IT DEPLOYED ON ONE SERVER PER GROUP**
 7. **Make any additions or updates requested by Sean and Caleb to your sprint 1 deliverables.**
 
 ## Full Stack Teams
