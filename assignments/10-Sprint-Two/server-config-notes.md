@@ -2,6 +2,16 @@
 1. Cloned Augur
 2. Have it built with `make install` ... and when in doubt: `make rebuild` (if you have an augur.config.json present it will just rebuild everything to make sure it works.)
 3. Make sure you have your virtual environment activated
+```
+        ## Create your virtual environment (as described elsewhere in the course)
+        virtualenv --python=python3 augur_env
+
+        ## Every time you login to your server you will need to activate the virtual environment to work with augur
+        source augur_env/bin/activate
+
+```
+
+
 3. Create a directory for cloning repositories. `mkdir ~/repos` is a good place to start. That will put a `repos` subdirectory into your home directory. If you are prompted for the facade repository directory and `~/repos` does not work, type in `test` and this will work. 
 4. Make sure your venv is python 3 `python --version` will affirm this
 5. Make sure your server can see itself: `ping 129.114.104.229` (YOUR IP, not this sample!)
