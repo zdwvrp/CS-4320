@@ -19,7 +19,14 @@
 ```
 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at http://localhost:8080/sockjs-node/info?t=1573159165913. (Reason: CORS request did not succeed).
 ```
-10. 
+10. Create your postgres Database if you have not already: 
+```
+    sudo -u postgres 
+    psql
+    postgres=# create database augur;
+    postgres=# create user augur with encrypted password 'mypass';
+    postgres=# grant all privileges on database augur to augur;
+```
 
 ## Want to start over and build augur again from scratch?
 1. delete your `augur.config.json`
