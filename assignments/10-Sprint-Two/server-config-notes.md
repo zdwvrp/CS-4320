@@ -6,7 +6,8 @@
         ## Create your virtual environment (as described elsewhere in the course)
         virtualenv --python=python3 augur_env
 
-        ## Every time you login to your server you will need to activate the virtual environment to work with augur
+        ## Every time you login to your server you will need to 
+        ## activate the virtual environment to work with augur
         source augur_env/bin/activate
 
 ```
