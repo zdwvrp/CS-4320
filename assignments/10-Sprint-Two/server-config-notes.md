@@ -2,6 +2,7 @@
 1. Cloned Augur
 2. Have it built with `make install` ... and when in doubt: `make rebuild` (if you have an augur.config.json present it will just rebuild everything to make sure it works.)
 3. Make sure you have your virtual environment activated
+3. Create a directory for cloning repositories. `mkdir ~/repos` is a good place to start. That will put a `repos` subdirectory into your home directory. 
 4. Make sure your venv is python 3 `python --version` will affirm this
 5. Make sure your server can see itself: `ping 129.114.104.229` (YOUR IP, not this sample!)
 6. Edit `augur.config.json` to have my external ip in place. Make "host" be the EXTERNAL IP address of your computer:
