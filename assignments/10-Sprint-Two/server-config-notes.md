@@ -27,6 +27,23 @@ Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remot
     postgres=# create user augur with encrypted password 'mypass';
     postgres=# grant all privileges on database augur to augur;
 ```
+11. However, your machines should already have an empty augur database available.
+```
+postgres=# create database augur;
+ERROR:  database "augur" already exists
+postgres=# create user augur with encrypted password 'mypass';
+ERROR:  role "augur" already exists
+postgres=# grant all privileges on database augur to augur;
+GRANT
+postgres=# set search_path to augur;
+SET
+postgres=# \dt
+Did not find any relations.
+postgres=# \q
+postgres@js-104-143:~$ 
+```
+**so**, what you do is specify `localhost` for the server, `5432` for the port and `augur` for the database. Your username is `augur` and your password is `mypass`. 
+
 
 ## Want to start over and build augur again from scratch?
 1. delete your `augur.config.json`
