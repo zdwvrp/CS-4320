@@ -16,7 +16,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 9. Individual Requirements Analysis for Semester Project | 5% | November 4, 2019 | [Software Requirements](../readings/leffingwell-widrig.pdf) |
 | 10. Team Sprint 1 | 10% | November 4, 2019 | - |
 | 11. Team Sprint 2 | 10% | November 11, 2019 | - |
-| 12. Team Sprint 3 | 10% | November 18, 2019 | - |
-| 13. Team Sprint 4 | 10% | December 5, 2019 | - |
+| 12. Team Sprint 3 | 10% | November 20, 2019 | - |
+| 13. Team Sprint 4 | 10% | December 5, 2019 (first submission (required)), December 14, 2019: Final Submission | - |
 | 14. Final Exam | 10% | December 9, 2019, 7:30am - 9:30am [Per Provost Website](https://registrar.missouri.edu/academic-calendar/final-exam-schedule/) | - |
 | 15. Classroom Participation | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
