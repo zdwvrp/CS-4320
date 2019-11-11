@@ -1,5 +1,20 @@
 # Sprint 2
 
+**CRITICAL UPDATE** 
+
+For this sprint I am as of right now still working with our server provider to fix the issue where you cannot see the pages live on your site. So: 
+
+1. Submit the URL that your server is running at as the assignement. We will, if things are not working or I don't get help by this evening, login to your server and check that you are able to run augur. 
+2. There are two ways to run augur: 
+    - `make dev` will run a development server
+    - `nohup augur run >augur.log 2>augur.err &` will leave the augur server running in the background. If you need to kill a server started this way, use the command `augur util kill`. You would do this to recompile after changes, for example. 
+3. If you have everything loaded, you should see something like this when you try to hit your server's IP address (until I get the networking issues sorted out):
+
+![](./10-Sprint-Two/augur-spinner.png)
+
+4. We will be looking at your GitHub repositories that we created for you to assess the code you submitted. 
+5. Grades for sprint 2 will be derived from how your group completed the requirements for the type of project you have. As in the past, we will allow you to clarify anything we observe to be missing in a revision. **Be sure that your repository has a README.md that makes the scope of your OVERALL project clear, and also identifies what we should expect to see completed in this sprint.** 
+
 ## Basics
 1. All submissions in the GitHub repository created for you for this class. 
 2. Your primary objective in this sprint is to get something working and deployed. 
