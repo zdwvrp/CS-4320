@@ -61,8 +61,13 @@ postgres@js-104-143:~$
 1. delete your `augur.config.json`
 2. rerun `make install`
 
+## Add this line to your postgres.conf file in `/etc/postgresql/10/main/postgresql.conf`
 
-## Postgres pg_hba.conf sample that "works" ( `/etc/postgresql/11/main
+# IPv4 local connections:
+
+`host    all             all             0.0.0.0/0               md5` 
+
+## Postgres pg_hba.conf sample that "works" ( `/etc/postgresql/10/main
 ` )
 ```
 # DO NOT DISABLE!
