@@ -42,5 +42,5 @@ You can create a "release" of your repository using a URL `/releases` at the end
 
 
 
-[1] [If you have Windows deployment instructions, since one project actually built these, that's ok. But if yours is not that project keep in mind that one person created and tested a LOT of specific instructions for Windows deployment, and you will in all likelihood have to do all THAT work again.]
-[2] [Assume we have an instance installed that, if needed, we will connect your repository's work to. Everything we need to configure is in the `augur.config.json` file and we have one for testing student projects. If you have `.json` files stored in your deployment, please note what endpoints they were generated from.]
+[1]: "If you have Windows deployment instructions, since one project actually built these, that's ok. But if yours is not that project keep in mind that one person created and tested a LOT of specific instructions for Windows deployment, and you will in all likelihood have to do all THAT work again."
+[2]: "Assume we have an instance installed that, if needed, we will connect your repository's work to. Everything we need to configure is in the `augur.config.json` file and we have one for testing student projects. If you have `.json` files stored in your deployment, please note what endpoints they were generated from."
