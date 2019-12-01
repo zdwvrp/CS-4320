@@ -14,7 +14,7 @@ You can create a "release" of your repository using a URL `/releases` at the end
     - By Saturday, December 14th at 11:59pm, create a release of the final version of your repository. 
 
 ## Due December 5th 
-1. Make sure there is a README.md at the base of the repository that describes Deployment instructions for a [mac, ubuntu or other linux based system] [^1]. [**You do NOT need to repeat any basic, Augur installation instructions.**] [^2]. 
+1. Make sure there is a README.md at the base of the repository that describes Deployment instructions for a mac, ubuntu or other linux based system [^footnote]. **You do NOT need to repeat any basic, Augur installation instructions.** [^footnote]. 
 	- Step by step instructions on how to install and run your work. 
         - Include any dependencies. 
         - This will almost certainly entail having somebody try to install it from scratch on a computer you have not been working on; or at least to run it in a new clone folder, using a new python virtual environment. 
@@ -43,4 +43,5 @@ You can create a "release" of your repository using a URL `/releases` at the end
 
  
 [^1]: If you have Windows deployment instructions, since one project actually built these, that's ok. But if yours is not that project keep in mind that one person created and tested a LOT of specific instructions for Windows deployment, and you will in all likelihood have to do all THAT work again.
+
 [^2]: Assume we have an instance installed that, if needed, we will connect your repository's work to. Everything we need to configure is in the `augur.config.json` file and we have one for testing student projects. If you have `.json` files stored in your deployment, please note what endpoints they were generated from.
