@@ -2,7 +2,7 @@
 
 [**First: Join the Slack Channel**](http://bit.ly/software-eng-spring-2020)
 
-##Office Hours:
+## Office Hours:
 - TBD
 
 ## [Assignment Calendar](./assignments/00-assignment-calendar.md)
