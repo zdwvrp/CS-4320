@@ -1,10 +1,10 @@
 # SYLLABUS! Software Engineering I: Spring, 2020 : CS 4320/7320
-
 **First: Join the Slack Channel** : http://bit.ly/software-eng-spring-2020 
 
-**Office Hours:** 
-
+##Office Hours:
 - TBD
+
+## [Assignment Calendar](./assignments/00-assignment-calendar.md)
 
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
