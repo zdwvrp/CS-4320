@@ -7,8 +7,6 @@
     Syllabus. Even the Ubuntu subsystems on the latest version of windows do not function like
     other Linux based operating systems and do not support software engineering using open
     source tools. We are unable to support Windows OS specific issues.
-    MITPress NewMath.cls LATEX Book Style Size: 8x9 August 20, 2019 10:08am
-    Exercises 7
     - Take a Screen Shot of the application directory listing from your operating systems command
     line.
     - Use git commands (see link in syllabus) to Switch to the dev branch.
