@@ -1,11 +1,10 @@
-# SYLLABUS! Software Engineering I: Fall, 2019 : CS 4320/7320
+# SYLLABUS! Software Engineering I: Spring, 2020 : CS 4320/7320
 
-**First: Join the Slack Channel** : http://bit.ly/2KI1BJh 
+**First: Join the Slack Channel** : http://bit.ly/software-eng-spring-2020 
 
 **Office Hours:** 
 
-- Caleb: 3:30-4:30 MWF (Naka 242)
-- Sean : 2pm - 3:50pm Mondays, **except** September 9, 2019, which will be 3-4pm, and September 16, 2019, which will be 1pm to 2:50pm. (Naka 113)
+- TBD
 
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
@@ -19,17 +18,14 @@
 -- The Beatles 
 ```
 1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
-2. Git and Github are TEAM oriented software engineering technologies. Teamwork is now organic to computing, programming, developing, designing, and making the [New David Hasselhoff Album.](https://consequenceofsound.net/2019/08/david-hasselhoff-new-album-open-your-eyes/)
-
-
-## The CFL (Canadian Football League)
-My nephew, [Sean McGuire](https://www.bluebombers.com/players/sean-mcguire/164251/) (excellently named kid), is a backup quarterback for the Winnipeg Blue Bombers, after starting for 4 years at Western Illinois University. This has no bearing on the course our your grade, but I do love me some Blue Bombers banter in class to keep the mood light. 
+2. Git and Github are TEAM oriented software engineering technologies. Teamwork is now organic to computing, programming, developing, designing, and many parts of life. 
+ 
 
 ## Participation in Class and TA Office Hours
 1. **This course is project based. Your assignments will involve the routine submission of working code on GitHub.**
 2. You will not be able to learn the material if you are not in class. Office hours exist to help you work past obstacles that emerge after class, not repeat material presented in class. Be present. Participate. 
 3. The first few weeks we will work through tooling issues with you, after that we expect you have learned how to use the slack channel and Google Each other. 
-4. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/2KI1BJh  
+4. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/software-eng-spring-2020  
 
 ## Topics
 1. Overview of Software / Systems engineering and Development Life-cycle
@@ -47,14 +43,14 @@ My nephew, [Sean McGuire](https://www.bluebombers.com/players/sean-mcguire/16425
 ## Instructors
 1. Teaching Assistant
 For all technical questions, grade questions or questions regarding the class, first, make sure you have read the syllabus. Your second point of contact are the Teaching Assistant (TA) for this class. They will raise any issues to Goggins if they are unable to answer your questions.  The TA's for this course are:
-  - Caleb [calebheinzman@mail.missouri.edu](mailto:calebheinzman@mail.missouri.edu) Caleb's office hours will be announced by the end of the first week.  Office Hours for TA's are in 239 Naka Hall (The TA Office).
+  - Caleb [calebheinzman@mail.missouri.edu](mailto:calebheinzman@mail.missouri.edu) Office Hours TBD (The TA Office).
 2. Instructor
-  - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu)Phone: 215-948-2729 Office: 113 Naka Hall Office Hours: 1pm – 2pm, Tuesday or by appointment.  
+  - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu)Phone: 215-948-2729 Office: 113 Naka Hall Office Hours: TBD.  
 
 
 ## Meeting Schedule
 _Tuesday and Thursday 2:00 – 3:15 PM_
-_LEFEVRE HALL 106_
+_TUCKER HALL 18_
 
 ## Course Prerequisites
  - _CS 2050CS 3380_
