@@ -101,54 +101,33 @@ It is expected that students are proficient with performing basic web-based and 
 Grades will be **+/-** for both Undergraduates and Graduate Students. Per assignment breakdowns are here: 
 
 ### Undergraduate 
-(Letter Grade : %)
-A+ : 97 >
-A  : 93 – 96
-A- : 90 – 92
-B+ : 87 – 89
-B  : 83 – 96
-B- : 80 – 82
-C+ : 77 – 79
-C  : 73 – 76
-C- : 70 – 72
-D+ : 67 – 69
-D  : 63 – 66
-D- : 60 – 62
-F : < 60
+- (Letter Grade : %)
+- A+ : 97 >
+- A  : 93 – 96
+- A- : 90 – 92
+- B+ : 87 – 89
+- B  : 83 – 96
+- B- : 80 – 82
+- C+ : 77 – 79
+- C  : 73 – 76
+- C- : 70 – 72
+- D+ : 67 – 69
+- D  : 63 – 66
+- D- : 60 – 62
+- F : < 60
 
 ### Graduate 
 (Letter Grade : %)
-A+ : 97 >
-A  : 93 – 96
-A- : 90 – 92
-B+ : 87 – 89
-B  : 83 – 96
-B- : 80 – 82
-C+ : 77 – 79
-C  : 73 – 76
-C- : 70 – 72
-F : < 70
-
-## Specific Assignment Grades
-
-| **Assignments** | **Percentage of Grade** |
-| --- | --- |
-| 1. GitHub Assignment | 4% |
-| 2. Resume Submission | 1% |
-| 3. Project 1: Requirements Focus (individual) | 5% |
-| 4. Project 2: Design Focus (team) | 5% | 
-| 5. Project 3: Testing Focus (individual) | 5% |
-| 6. Project 4: Deployment Focus (team) | 5% | 
-| 7. Project 5: User Experience Focus (team) | 5% |
-| 8. Project 6: Systems Integration Focus (team) | 5% |
-| 9. Individual Requirements Analysis for Semester Project | 5% |
-| 10. Semester Project Team Requirements Document | 5% |
-| 11. Team Sprint 1 | 5% |
-| 12. Team Sprint 2 | 10% |
-| 13. Team Sprint 3 | 10% |
-| 14. Team Sprint 4 | 10% |
-| 15. Final Exam | 10% |
-| 16. Classroom Participation | 10% |
+- A+ : 97 >
+- A  : 93 – 96
+- A- : 90 – 92
+- B+ : 87 – 89
+- B  : 83 – 96
+- B- : 80 – 82
+- C+ : 77 – 79
+- C  : 73 – 76
+- C- : 70 – 72
+- F : < 70
 
 ## Course Policies
 
