@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Powerpoint
-.pptx/
-.ppt/
+*.pptx
+*.ppt
 
 # Distribution / packaging
 .Python
