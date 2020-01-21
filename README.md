@@ -72,7 +72,7 @@ _TUCKER HALL 18_
   - Python Unit Testing Framework 
 
 ## Course Topics Resources
-It is expected that students are proficient with performing basic web-based and Engineering Library http://mulibraries.missouri.edu/engineering/ searches for information. Throughout the semester, students will be assigned reading from the IEEE Computer Society's [_Software Engineering Body of Knowledge_:](http://www.computer.org/portal/web/swebok.)
+It is expected that students are proficient with performing basic web-based and Engineering Library http://mulibraries.missouri.edu/engineering/ searches for information. Throughout the semester, students will be assigned reading from the IEEE Computer Society's [_Software Engineering Body of Knowledge_:](./readings/SWEBOKv3-full.pdf)
 - Short summaries of lecture topics may also be provided in place of the SWEBOK chapters.
 - Additionally, IEEE, ACM and other open source papers providing thorough coverage of Software Engineering and the state of best practices will be assigned reading throughout the semester.
 
