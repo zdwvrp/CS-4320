@@ -1,5 +1,6 @@
 # SYLLABUS! Software Engineering I: Spring, 2020 : CS 4320/7320
-**First: Join the Slack Channel** : http://bit.ly/software-eng-spring-2020 
+
+[**First: Join the Slack Channel**](http://bit.ly/software-eng-spring-2020)
 
 ##Office Hours:
 - TBD
