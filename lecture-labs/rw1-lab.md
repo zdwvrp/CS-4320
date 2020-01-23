@@ -1,4 +1,4 @@
-# TW2 - Wednesday Lab, Week 2
+# TW2 - Thursday Lab, Week 1
 
 ## In Pairs, make sure you have figured out how to construct your repositories for the course
 
@@ -53,7 +53,6 @@
 	`\i /Users/sgoggins/github/computationalmystic/sengfs19/lecture-labs/code/spdx.sql`
 10. Commit what your progress under the 
             - lecture-labs
-                - rw2
-directory. 
+                - rw2 directory. 
 
 

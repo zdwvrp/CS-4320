@@ -3,15 +3,11 @@
 2. create a new github repository under your account, with your pawprint as the name.
     - Create a fork of the repository https://www.github.com/chaoss/augur into your account
     - Clone the project to your local machine.
-    - If you are a Windows computer, please see our operating system support statement in the
-    Syllabus. Even the Ubuntu subsystems on the latest version of windows do not function like
-    other Linux based operating systems and do not support software engineering using open
+    - If you are a Windows computer, please see our operating system support statement in the Syllabus. Even the Ubuntu subsystems on the latest version of windows do not function like other Linux based operating systems and do not support software engineering using open
     source tools. We are unable to support Windows OS specific issues.
-    - Take a Screen Shot of the application directory listing from your operating systems command
-    line.
+    - Take a Screen Shot of the application directory listing from your operating systems command line.
     - Use git commands (see link in syllabus) to Switch to the dev branch.
-    - Take a Screen shot of the application directory listing in from your operating systems command
-    line for the dev branch.
+    - Take a Screen shot of the application directory listing in from your operating systems command line for the dev branch.
 3. Setup a Development Environment
     -  Update Python to 3.7:
      -  ‘sudo apt-get install python3.7‘
@@ -33,3 +29,5 @@
 4. Commit all screen shots to the GitHub repository named after your pawprint, and make sure they
 are pushed to GitHub under an ”assignment-one” folder.
 5. submit a link to your repository on canvas under assignment one.
+
+**additional information can be found at the documentation site: https://oss-augur.readthedocs.io/ 
