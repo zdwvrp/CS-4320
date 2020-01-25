@@ -24,9 +24,9 @@
     - For Linux**
 ```
     -- sudo -u postgres psql
-    create database augur;
-    create user augur with encrypted password 'mypass';
-    grant all privileges on database augur to augur;
+    create database chiefs;
+    create user chiefs with encrypted password 'mypass';
+    grant all privileges on database chiefs to chiefs;
 
 ```
     - For Mac OSX**  
@@ -42,12 +42,6 @@
         CREATE SCHEMA augur_operations;
         CREATE SCHEMA spdx;
 
-	GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA augur_data TO augur;
-        GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA augur_data TO augur;
-        GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA augur_operations TO augur;
-        GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA augur_operations TO augur;
-        GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA spdx TO augur;
-        GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA spdx TO augur;
 ```
 9. Run SQL: (MOST PEOPLE did this in class using a web tool or other GUI. So, if you have done that, running this at the command line will not work, because the objects already exist). 
 	`\i /Users/sgoggins/github/computationalmystic/sengfs19/lecture-labs/code/spdx.sql`

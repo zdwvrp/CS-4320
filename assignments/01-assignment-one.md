@@ -23,11 +23,10 @@
     you get the ‘source‘ command automatically put into your path using the ‘bash‘ shell. So, if
     you get an error, type ‘bash‘ and then hit the enter key and try again.)
     - Make sure you have NodeJS and NPM installed. ‘sudo dnf install nodejs‘ on Fedora or
-    ‘sudo apt-get install nodejs‘ on Ubuntu. Or ‘brew install nodejs‘ on a Mac.
+    ‘sudo apt-get install nodejs‘ on Ubuntu. Or ‘brew install nodejs‘ on a Mac. 
     - Take a picture of your screen showing these pieces of software are installed. Basically, issue
     the commands at a terminal and screen shot those.
-4. Commit all screen shots to the GitHub repository named after your pawprint, and make sure they
-are pushed to GitHub under an ”assignment-one” folder.
+4. Commit all screen shots to the GitHub repository named after your pawprint, and make sure they are pushed to GitHub under an ”assignment-one” folder.
 5. submit a link to your repository on canvas under assignment one.
 
 **additional information can be found at the documentation site: https://oss-augur.readthedocs.io/ 
