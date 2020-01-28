@@ -3,7 +3,7 @@
 [**First: Join the Slack Channel**](http://bit.ly/software-eng-spring-2020)
 
 ## Office Hours:
-- TBD
+- Caleb Heinzman: 12:15-1:15 Tuesday/Thursday (Naka 242)
 
 ## [Assignment Calendar](./assignments/00-assignment-calendar.md)
 
@@ -44,7 +44,7 @@
 ## Instructors
 1. Teaching Assistant
 For all technical questions, grade questions or questions regarding the class, first, make sure you have read the syllabus. Your second point of contact are the Teaching Assistant (TA) for this class. They will raise any issues to Goggins if they are unable to answer your questions.  The TA's for this course are:
-  - Caleb [calebheinzman@mail.missouri.edu](mailto:calebheinzman@mail.missouri.edu) Office Hours TBD (The TA Office).
+  - Caleb [calebheinzman@mail.missouri.edu](mailto:calebheinzman@mail.missouri.edu) Office Hours TBD (Naka 252).
 2. Instructor
   - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu)Phone: 215-948-2729 Office: 113 Naka Hall Office Hours: TBD.  
 
