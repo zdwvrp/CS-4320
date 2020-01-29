@@ -1,4 +1,4 @@
-## TW2 - Wednesday Lab, Week 2: Brainstorming Activity
+## TW2 - Tuesday Lab, Week 2: Brainstorming Activity
 
 ### Steps in Lab
 1. Review Materials (15 Minutes) 
