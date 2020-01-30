@@ -1,4 +1,4 @@
-# Assignment 2:  Requirements Analysis: Spring 2020 CS4320/7320 Software Engineering
+# Assignment 3:  Requirements Analysis: Spring 2020 CS4320/7320 Software Engineering
 
 In this exercise, you will perform a requirements analysis for an assignment submission service.
 
