@@ -7,7 +7,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | --- | --- | -- | --- | 
 | 1. GitHub Assignment | 4% | January 27, 2020 | [Goggins Book Notes](../readings/Goggins-Notes-Book-Form.pdf) |
 | 2. Resume Submission | 1% | January 27, 2020 | na | 
-| 3. Project 1: Requirements Focus (individual) | 5% | February 3, 2020 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
+| 3. Requirements Analysis (individual) | 5% | February 3, 2020 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
 | 4. Project 2: Design Focus (team) | 5% |  February 10, 2020 | [SWEBOK Design](../readings/SWEBOK-Design.pdf) | 
 | 5. Project 3: Testing Focus (individual) | 5% | February 17, 2020 |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) |
 | 6. Project 4: Deployment Focus (team) | 5% | February 24, 2020 | tbd |
