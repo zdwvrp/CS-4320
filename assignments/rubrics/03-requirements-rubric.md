@@ -35,7 +35,7 @@ Create a document with a title page, including your name and the exercise name. 
   - relevant data within the system. Data entities and attributes may be simply listed or you may construct a data model if it helps.
   - constraints (non-functional) on the activity or the resultant state of the system
 
-25 – All major logical attributes & constraints for each activity are accounted for (At least 5 data points per activity.)  
+25 – All major logical attributes & constraints for each activity are accounted for (At least 5 data attributes per activity.)  
 20 – Most attributes & constraints for each activity are accounted for (at least 4 data points per activity)  
 15 – Many logical attributes & constraints for each activity are accounted for (at least 3 data points per activity)  
 10 – Only a few attributes & constraints accounted for  

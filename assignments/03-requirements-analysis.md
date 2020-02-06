@@ -1,8 +1,8 @@
-# Assignment 2:  Requirements Analysis: Spring 2020 CS4320/7320 Software Engineering
+# Assignment 3:  Requirements Analysis: Spring 2020 CS4320/7320 Software Engineering
 
 In this exercise, you will perform a requirements analysis for an assignment submission service.
 
-**DUE February 4, 2019 @Midnight (11:59pm, so the last minute of this day)**
+**DUE February 3, 2019 @Midnight (11:59pm, so the last minute of this day)**
 
 ## Problem
 - Need: A method for easily submitting and collecting programming assignments.
