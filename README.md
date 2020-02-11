@@ -1,6 +1,6 @@
 # SYLLABUS! Software Engineering I: Spring, 2020 : CS 4320/7320
 
-[**First: Join the Slack Channel**](http://bit.ly/software-eng-spring-2020)
+[**First: Join the Slack Channel**](https://join.slack.com/t/mu-software-eng/shared_invite/enQtOTAyODQwNDAxMzc4LWRjNzE2NmUyNzg2MzdkNzU2M2NhYjA3NTY3OWQ4ZGYwZWFjNDcxNjdlNGQyMTg3N2NhODZhMDVmZjI1ZjEwNDk)
 
 ## Office Hours:
 - Caleb Heinzman: 12:15-1:15 Tuesday/Thursday (Naka 242)
