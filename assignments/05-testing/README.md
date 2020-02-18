@@ -14,7 +14,7 @@ This program contains the following classes:
 
 ## SetUp
 
-Run 'pip3 install pytest' in order to run a test.
+Run `pip3 install pytest` in order to run a test.
 
 ## Files
 
@@ -27,7 +27,7 @@ Everytime you modify the code, the data will be changed. Run RestoreData.py to r
 dataset.
 
 ### System
-This is the main class which is used to manage the entire software. Below this class has "if '__name__' == '__main__':" statement 
+This is the main class which is used to manage the entire software. Below this class has `if '__name__' == '__main__':` statement 
 which contains the first lines run in a python program.
 
 System manages and creates the different users within the system.
@@ -52,7 +52,7 @@ Professor inherits Staff and contains all functions relevant to acitvities the p
 ### Example_Test.py
 This is an example test. It tests if the system can handle a username that does not exist. To run this test run:
 
-'pyest'
+`pytest`
 
 in the directory with the test. This will run all python files containing '_test' or 'test_'.
 
@@ -128,6 +128,4 @@ correct course are returned.
 
 ## Grading 
 
-We will run 'pytest' in the directory with your tests. We will be looking for 5 total tests that pass and 10 total tests
-that fail. We will then review the code for each test to assure you created the tests correctly. You will be marked off
-for each test that does not work.
+We will run `pytest` in the directory with your tests. Please make sure that you remove both the example tests from 'PythonTutorial/Classes/example_test.py' and just 'example_test.py'. We will be looking for 5 total tests that pass and 10 total tests that fail. We will then review the code for each test to assure you created the tests correctly. You will be marked off for each test that does not work.
