@@ -1,4 +1,4 @@
-3. Setup a Development Environment
+## Setup a Development Environment
     -  Update Python to 3.7:
      -  ‘sudo apt-get install python3.7‘
      -  ‘sudo update-alternatives –install /usr/bin/python3 python3 /usr/bin/python3.7 2‘
