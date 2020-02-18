@@ -80,7 +80,7 @@ Here are the first 10 tests you will need to create:
 ### 1. login - System.py
 
 The login function takes a name and password and sets the user for the program. Verify that the correct user is created
-with this test, and te the json files to check that it adds the correct data to the user.
+with this test, and use the json files to check that it adds the correct data to the user.
 
 ### 2. check_password - System.py
 
