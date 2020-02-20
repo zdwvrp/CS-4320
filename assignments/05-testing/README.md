@@ -1,5 +1,7 @@
 # Assignment 5: Software-Engineering-Testing
 
+[Setup your python virtual environment first.](./venv.md)
+
 For this assignment you will be tasked with testing the grading system. This system was designed to be a simple version 
 of the grading system you have worked on for the past assignments. 
 
