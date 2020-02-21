@@ -178,6 +178,44 @@ Your choice: 1
 
 ```
 
+## Front end will FAIL on a micro. THAT IS OK
+
+```
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x13cd419]
+Security context: 0x0df910cc0921 <JSObject>
+    1: _(aka _) [0x211c8a53ce29] [/home/ec2-user/github/augur/frontend/node_modules/terser/dist/bundle.min.js:~1] [pc=0x1cd66e5d34e0](this=0x22535b5404b9 <undefined>,0x08c6257bc939 <String[#4]: punc>,0x07505ce8e5a9 <String[#1]: :>,0x22535b5404b9 <undefined>)
+    2: ee [0x211c8a53a8f9] [/home/ec2-user/github/augur/frontend/node_modules/terser/dist/bundle.min.js:~1...
+
+FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+
+Writing Node.js report to file: report.20200221.181408.6698.0.001.json
+Node.js report completed
+ 1: 0xa06760 node::Abort() [node]
+ 2: 0xa06ba1 node::OnFatalError(char const*, char const*) [node]
+ 3: 0xb74cee v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, bool) [node]
+ 4: 0xb75069 v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, bool) [node]
+ 5: 0xd23575  [node]
+ 6: 0xd23c06 v8::internal::Heap::RecomputeLimits(v8::internal::GarbageCollector) [node]
+ 7: 0xd32479 v8::internal::Heap::PerformGarbageCollection(v8::internal::GarbageCollector, v8::GCCallbackFlags) [node]
+ 8: 0xd332b5 v8::internal::Heap::CollectGarbage(v8::internal::AllocationSpace, v8::internal::GarbageCollectionReason, v8::GCCallbackFlags) [node]
+ 9: 0xd35d8c v8::internal::Heap::AllocateRawWithRetryOrFailSlowPath(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [node]
+10: 0xcfc964 v8::internal::Factory::NewFillerObject(int, bool, v8::internal::AllocationType, v8::internal::AllocationOrigin) [node]
+11: 0x1049c8e v8::internal::Runtime_AllocateInYoungGeneration(int, unsigned long*, v8::internal::Isolate*) [node]
+12: 0x13cd419  [node]
+util/scripts/install/frontend.sh: line 20:  6687 Aborted                 npm run build
+**********************************
+*** INSTALLATION COMPLETE ***
+
+```
+
+
+
+========
+
 12. Have these steps completed before class on Tuesday, October 8. **If you have installation or setup issues, submit them to the Slack Channel.** 
 
 ## Phase Two
