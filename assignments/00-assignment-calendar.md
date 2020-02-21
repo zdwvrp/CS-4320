@@ -10,7 +10,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 3. Requirements Analysis (individual) | 5% | February 5, 2020 | [SWEBOK Requirements](../readings/SWEBOK-Requirements.pdf) | 
 | 4. Design (team) | 5% |  February 16, 2020 | [SWEBOK Design](../readings/SWEBOK-Design.pdf) | 
 | 5. Testing (individual) | 5% | February 25, 2020 |  [SWEBOK Testing](../readings/SWEBOK-Testing.pdf) |
-| 6. Deployment Focus (team) | 5% | March 3, 2020 | tbd |
+| 6. Deployment Focus (Individual) | 5% | March 3, 2020 | tbd |
 | 7. User Experience Focus + Integration Focus (team)* Part One | 10% | March 10, 2020 | [SWEBOK Construction](../readings/SWEBOK-Construction.pdf) |
 | 8. User Experience Focus + Integration Focus (team)* Part Two | 5% | March 17, 2020 | [SWEBOK Maintenance](../readings/SWEBOK-Maintenance.pdf) |
 | 9. Individual Requirements Analysis for Semester Project | 5% | March 17, 2020 | [Software Requirements](../readings/leffingwell-widrig.pdf) |

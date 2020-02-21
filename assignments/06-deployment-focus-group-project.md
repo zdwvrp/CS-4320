@@ -1,4 +1,4 @@
-# Project 4: Deployment Focus (team)
+# Assignment 6: Deployment Focus (Individual)
 
 **THIS IS NOT THE FINAL VERSION FOR SPRING 2020** W
 
@@ -212,7 +212,32 @@ util/scripts/install/frontend.sh: line 20:  6687 Aborted                 npm run
 
 ```
 
+## Run the back end of augur
+```
+(myenv) [ec2-user@ip-172-31-87-9 augur]$ nohup augur run >augur.log 2>augur.err &
 
+```
+
+### Output you should see
+```
+(myenv) [ec2-user@ip-172-31-87-9 augur]$ cat augur.log
+(myenv) [ec2-user@ip-172-31-87-9 augur]$ cat augur.err
+nohup: ignoring input
+2020-02-21 18:18:01 ip-172-31-87-9.ec2.internal augur[6922] INFO Booting broker and its manager...
+2020-02-21 18:18:02 ip-172-31-87-9.ec2.internal augur[6922] INFO Booting housekeeper...
+/home/ec2-user/github/augur/augur/housekeeper/housekeeper.py:327: UserWarning: DataFrame columns are not unique, some columns will be omitted.
+  reorganized_repos = reorganized_repos.to_dict('records')
+2020-02-21 18:18:02 ip-172-31-87-9.ec2.internal root[6922] INFO Starting update processes...
+2020-02-21 18:18:02 ip-172-31-87-9.ec2.internal augur[6922] INFO Starting server...
+[2020-02-21 18:18:02 +0000] [6922] [INFO] Starting gunicorn 19.9.0
+[2020-02-21 18:18:02 +0000] [6922] [INFO] Listening at: http://0.0.0.0:5000 (6922)
+[2020-02-21 18:18:02 +0000] [6922] [INFO] Using worker: sync
+[2020-02-21 18:18:02 +0000] [6985] [INFO] Booting worker with pid: 6985
+[2020-02-21 18:18:02 +0000] [6986] [INFO] Booting worker with pid: 6986
+[2020-02-21 18:18:03 +0000] [6987] [INFO] Booting worker with pid: 6987
+[2020-02-21 18:18:03 +0000] [6988] [INFO] Booting worker with pid: 6988
+(myenv) [ec2-user@ip-172-31-87-9 augur]$ 
+```
 
 ========
 
