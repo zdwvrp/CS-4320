@@ -54,7 +54,7 @@ Professor inherits Staff and contains all functions relevant to acitvities the p
 ### Example_Test.py
 This is an example test. It tests if the system can handle a username that does not exist. To run this test run:
 
-`pytest`
+`pytest` or `pytest example_test.py`
 
 in the directory with the test. This will run all python files containing '_test' or 'test_'.
 
