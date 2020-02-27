@@ -259,7 +259,7 @@ nohup: ignoring input
 2. Screenshot inside virtualenv
 3. Screenshot of python and node version
 4. Screenshot after `sudo service postgresql start`
-5. Screenshot after `nohup augur run >augur.log 2>augur.err &`
+5. Screenshot after `cat augur.err`
 
 
 
