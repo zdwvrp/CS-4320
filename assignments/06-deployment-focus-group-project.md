@@ -259,9 +259,9 @@ nohup: ignoring input
 2. Screenshot inside virtualenv
 3. Screenshot of python and node version
 4. Screenshot after: 
-1. `sudo service postgresql start`
-2. `sudo su - postgres `
-3. `psql`
+i. `sudo service postgresql start`
+ii. `sudo su - postgres `
+ii. `psql`
 5. Screenshot after `cat augur.err` (Only the top)
 
 
