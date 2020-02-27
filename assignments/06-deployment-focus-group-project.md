@@ -262,7 +262,7 @@ nohup: ignoring input
 1. `sudo service postgresql start`
 2. `sudo su - postgres `
 3. `psql`
-5. Screenshot after `cat augur.err`
+5. Screenshot after `cat augur.err` (Only the top)
 
 
 
