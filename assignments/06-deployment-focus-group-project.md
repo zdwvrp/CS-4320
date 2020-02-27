@@ -104,7 +104,7 @@ logout
 ```
 23. Install NodeJS: (Notice the "." at the start of line 2. Important)
 ``` 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash`
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
 nvm install node
 
