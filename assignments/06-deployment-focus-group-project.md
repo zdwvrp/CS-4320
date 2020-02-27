@@ -258,7 +258,10 @@ nohup: ignoring input
 1. Screenshot of SSH inside EC2 Instance
 2. Screenshot inside virtualenv
 3. Screenshot of python and node version
-4. Screenshot after `sudo service postgresql start`
+4. Screenshot after 
+`sudo service postgresql start`
+`sudo su - postgres `
+ `psql`
 5. Screenshot after `cat augur.err`
 
 
