@@ -6,7 +6,7 @@
 
 ## Phase One
 
-1. Create an amazon ec-2 instance (micro) using the Amazon AMI version of linux
+1. Create an amazon ec-2 instance (micro) using the Amazon AMI version of linux 2
 2. Login to server with pem key you create (and will need to `chmod 400`) using this command, for example, `ssh -i otf.pem ec2-user@ec2-54-209-155-106.compute-1.amazonaws.com`\
 3. Install python 3: `sudo yum install python3 -y`
 4. Install virtualenv `sudo pip3 install virtualenv`
