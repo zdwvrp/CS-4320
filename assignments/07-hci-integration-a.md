@@ -6,7 +6,7 @@ In this exercise you familiarize yourself data served up at this set of API Endp
 https://toolkit.mozilla.org/methods/
 
 ### Endpoints to familiarize yourself with:  
-1. http://czi2.osshealth.io:5153/api/unstable/
+1. http://czi2.osshealth.io:5153/api/unstable/  or this one: http://science.osshealth.io/ ... http://science.osshealth.io:5000/api/unstable/repo-groups 
 2. The specific endpoints available are documented here: http://augur.osshealth.io/api_docs/
 3. Your end product must be web deployable **in the next assignment***, and you can use any framework that allows you to call data from an API. Here is one example: https://twitter.github.io/year-in-review 
 4. The source for the Twitter year in review site is here: https://github.com/sgoggins/twitter.github.io
