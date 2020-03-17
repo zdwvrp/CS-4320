@@ -1,5 +1,7 @@
 # Assignment 7: User Experience & Integration Focus (team) : Spring 2019 : CS4320/7320 Software Engineering
 
+
+# __Option 1 (The Original Option)__
 ## You have new groups
 In this exercise you familiarize yourself data served up at this set of API Endpoints, and design three visualizations. Use one of the strategies identified here to facilitate your visualization design process, which ideally you will perform **as a group**. 
 
@@ -21,5 +23,9 @@ https://toolkit.mozilla.org/methods/
 2. http://czi2.osshealth.io:5153/api/unstable/repo-groups : repo group list 
 
 
-
+# __Option 2 (Alternative Option)__
+1. Find a set of endpoints
+2. You can pull data and build a mockup with one page. It does not have to be highly functional. 
+3. Use these resources to organize 
+4. **TURN IN** a JSON file of the data you want to visualize, **AND** your three visualization designs in a folder in one repository of one team member. There should be three different visualization designs, and three different JSON files. 
 

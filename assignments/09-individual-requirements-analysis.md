@@ -2,7 +2,7 @@
 
 In this exercise, you will perform a requirements analysis for an Open Source Software Health and Sustainability Metrics Tool. 
 
-**DUE March 20, 2020**
+**DUE s**
 
 ## Problem
 With hundreds of thousands of open source projects, technology companies and IT organizations are overwhelmed trying to assess which projects are most likely to be healthy and sustainable years from now. Yet, with the growing importance of real time operating and safety critical systems, it is inevitable that the need to make sustainability predictions about open source projects more reliably will be central to the success of many technology driven companies. How do we wade through this confusing morass? 

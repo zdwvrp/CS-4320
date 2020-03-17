@@ -2,8 +2,15 @@
 
 [**First: Join the Slack Channel**](https://join.slack.com/t/mu-software-eng/shared_invite/enQtOTAyODQwNDAxMzc4LWRjNzE2NmUyNzg2MzdkNzU2M2NhYjA3NTY3OWQ4ZGYwZWFjNDcxNjdlNGQyMTg3N2NhODZhMDVmZjI1ZjEwNDk)
 
+[**Weekly Schedule and Activities:**](./online-weeks)
+[March 16, 2020 -- The official trial run week per UM System Policy](./online-weeks/20200316-summary.md)
+[March 30, 2020](./online-weeks/20200330-summary.md)
+
+
 ## Office Hours:
-- Caleb Heinzman: 12:15-1:15 Tuesday/Thursday (Naka 242)
+- Caleb Heinzman: 12:15-1:15 Tuesday/Thursday https://missouri.zoom.us/my/sociallycompute
+- Weny Liu: 11am - 12pm Friday https://missouri.zoom.us/my/sociallycompute
+- Dr. Goggins: 2pm - 3:15pm Tuesday/Thursday, and by appointment or over Slack https://missouri.zoom.us/my/sociallycompute
 
 ## [Assignment Calendar](./assignments/00-assignment-calendar.md)
 
