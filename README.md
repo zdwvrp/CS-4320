@@ -2,7 +2,7 @@
 
 [**First: Join the Slack Channel**](https://join.slack.com/t/mu-software-eng/shared_invite/enQtOTAyODQwNDAxMzc4LWRjNzE2NmUyNzg2MzdkNzU2M2NhYjA3NTY3OWQ4ZGYwZWFjNDcxNjdlNGQyMTg3N2NhODZhMDVmZjI1ZjEwNDk)
 
-Videos will be posted to a Vimeo Channel. I will provide the link when I create the channel. 
+Videos will be posted to a Vimeo Channel: https://vimeo.com/manage/showcases/6884345/info
 
 [**Weekly Schedule and Activities:**](./online-weeks)
 [March 16, 2020 -- The official trial run week per UM System Policy](./online-weeks/20200316-summary.md)
