@@ -21,6 +21,11 @@ https://toolkit.mozilla.org/methods/
 ## Endpoints to look at: 
 1. http://czi2.osshealth.io:5153/api/unstable/repos : repo list
 2. http://czi2.osshealth.io:5153/api/unstable/repo-groups : repo group list 
+3. http://czi2.osshealth.io:5153/api/unstable/repo-groups/25182/repos/27857/reviews : List of pull requests for a particular repo and repo group
+4. http://czi2.osshealth.io:5153/api/unstable/repo-groups/99999/repos/27857/reviews : Same list of pull requests for a particular repo, but illustrating how the API is a bit flawed and ignores the repo-group when given a repo_id because all repo_id's are unique
+5. **note** A "Review" is the CHAOSS word for "Pull Request". 
+  - Reviews: https://chaoss.community/metric-reviews/
+  - Reviews Accepted https://chaoss.community/metric-reviews-accepted/ (chaoss metric)
 
 
 # __Option 2 (Alternative Option)__
