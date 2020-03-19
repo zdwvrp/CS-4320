@@ -11,7 +11,7 @@ Videos will be posted to a Vimeo Channel: https://vimeo.com/manage/showcases/688
 
 ## Office Hours:
 - Caleb Heinzman: 12:15-1:15 Tuesday/Thursday https://missouri.zoom.us/my/sociallycompute
-- Weny Liu: 11am - 12pm Friday https://missouri.zoom.us/my/sociallycompute
+- Wenyi Lu: 11am - 12pm Friday https://missouri.zoom.us/my/sociallycompute
 - Dr. Goggins: 2pm - 3:15pm Tuesday/Thursday, and by appointment or over Slack https://missouri.zoom.us/my/sociallycompute
 
 ## [Assignment Calendar](./assignments/00-assignment-calendar.md)
