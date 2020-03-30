@@ -20,5 +20,5 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 13a. Team Sprint 4 | 10% | April 21, 2020 | - |
 | 13b. Team Sprint Revisions 1 | 10% | April 28, 2020 | - |
 | 13c. Team Sprint Revision 2 | 10% | May 5, 2020 | - |
-| 14. Final Exam | 10% |  [Per Provost Website](https://registrar.missouri.edu/academic-calendar/final-exam-schedule/) | - |
+| 14. Final Exam | 10% |  [Per Provost Website](https://registrar.missouri.edu/academic-calendar/final-exam-schedule/) | - | 
 | 15. Classroom Participation | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
