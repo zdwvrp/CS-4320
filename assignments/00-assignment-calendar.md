@@ -13,7 +13,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 6. Deployment Focus (Individual) | 5% | March 3, 2020 | tbd |
 | 7. User Experience Focus + Integration Focus (team)* Part One | 5% | March 31, 2020 | [SWEBOK Construction](../readings/SWEBOK-Construction.pdf) |
 | 8. User Experience Focus + Integration Focus (team)* Part Two | -- | Campus Operations Suspended | [SWEBOK Maintenance](../readings/SWEBOK-Maintenance.pdf) |
-| 9. Individual Requirements Analysis for Semester Project | 10% | March 31, 2020 | [Software Requirements](../readings/leffingwell-widrig.pdf) |
+| 9. Individual Requirements Analysis for Semester Project | 10% | April 2, 2020 | [Software Requirements](../readings/leffingwell-widrig.pdf) |
 | 10. Team Sprint 1 | -- | Canceled due to campus operations being suspended | - |
 | 11. Team Sprint 2 | 5% | April 7, 2020 | - |
 | 12. Team Sprint 3 | 5% | April 14, 2020 | - |
