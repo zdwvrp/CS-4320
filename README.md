@@ -8,7 +8,7 @@
 
 ## Course Videos
 
-[Videos will be posted to a Vimeo Channel](https://vimeo.com/manage/showcases/6884345/info)
+[Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/6884345)
 
 ## Introduction to Online Delivery Mode
 1. [Slack Usage Overview](https://vimeo.com/402641024) ![video](./video.jpeg)
