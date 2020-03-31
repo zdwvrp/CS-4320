@@ -2,6 +2,11 @@
 
 [Course Syllabus](./SYLLABUS.md)
 
+## Office Hours:
+- Caleb Heinzman: 12:15-1:15 Tuesday/Thursday https://missouri.zoom.us/my/sociallycompute
+- Wenyi Lu: 11am - 12pm Friday https://missouri.zoom.us/my/sociallycompute
+- Dr. Goggins: 2pm - 3:15pm Tuesday/Thursday, and by appointment or over Slack https://missouri.zoom.us/my/sociallycompute
+
 [Getting Started *original*](./getting-started.md)
 
 ## [Current Assignment: 11](./assignments/11.-team-sprint-2.md)
