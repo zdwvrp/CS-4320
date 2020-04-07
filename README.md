@@ -5,8 +5,7 @@
 [Getting Started *original*](./getting-started.md)
 
 ## [Current Assignment: 11](./assignments/11.-team-sprint-2.md)
-
-[Course Syllabus](./SYLLABUS.md)
+## [Assignment Calendar](./assignments/00-assignment-calendar.md)
 
 [Videos will be posted to a Vimeo Channel](https://vimeo.com/manage/showcases/6884345/info)
 ## Office Hours:
@@ -14,10 +13,12 @@
 - Wenyi Lu: 11am - 12pm Friday https://missouri.zoom.us/my/sociallycompute
 - Dr. Goggins: 2pm - 3:15pm Tuesday/Thursday, and by appointment or over Slack https://missouri.zoom.us/my/sociallycompute
 
+## Course Videos
+[Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/6884345)
+
 ## Introduction to Online Delivery Mode
 1. [Slack Usage Overview](https://vimeo.com/402641024) ![video](./video.jpeg)
 2. [Assignment Shuffling](https://vimeo.com/402646730) ![video](./video.jpeg)
 3. [Video Lectures](https://vimeo.com/402647377) ![video](./video.jpeg)
 
-## [Assignment Calendar](./assignments/00-assignment-calendar.md)
 
