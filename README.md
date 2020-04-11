@@ -4,7 +4,7 @@
 
 [Getting Started *original*](./getting-started.md)
 
-## [Current Assignment: 11](./assignments/11.-team-sprint-2.md)
+## [Current Assignment: 12](./assignments/12.-team-sprint-3.md)
 ## [Assignment Calendar](./assignments/00-assignment-calendar.md)
 
 [Videos will be posted to a Vimeo Channel](https://vimeo.com/manage/showcases/6884345/info)
