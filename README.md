@@ -4,10 +4,11 @@
 
 [Getting Started *original*](./references/getting-started.md)
 
-## [Current Assignment: 13](./assignments/13a.-team-sprint-4.md)
-## [Assignment Calendar](./assignments/00-assignment-calendar.md)
+[Current Assignment: 13](./assignments/13a.-team-sprint-4.md)
+[Assignment Calendar](./assignments/00-assignment-calendar.md)
 
 [Videos will be posted to a Vimeo Channel](https://vimeo.com/manage/showcases/6884345/info)
+
 ## Office Hours:
 - Caleb Heinzman: 12:15-1:15 Tuesday/Thursday (See Calendar invitations and Slack Channel, due to University Policies on Zoom Security)
 - Wenyi Lu: 11am - 12pm Friday (See Calendar invitations and Slack Channel, due to University Policies on Zoom Security)
