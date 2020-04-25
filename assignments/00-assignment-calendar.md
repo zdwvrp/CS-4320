@@ -16,8 +16,8 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 9. Individual Requirements Analysis for Semester Project | 10% | April 2, 2020 | [Software Requirements](../readings/leffingwell-widrig.pdf) |
 | 10. Team Sprint 1 | -- | Canceled due to campus operations being suspended | - |
 | 11. [Team Sprint 2](./11.-team-sprint-2.md) | 5% | April 7, 2020 | - |
-| 12. Team Sprint 3 | 5% | April 14, 2020 | - |
-| 13a. Team Sprint 4 | 10% | April 23, 2020 | - |
+| 12. [Team Sprint 3](./12.-team-sprint-3.md) | 5% | April 14, 2020 | - |
+| 13a. [Team Sprint 4](./13a-team-sprint-4.md) | 10% | April 23, 2020 | - |
 | 13b. Team Sprint Revisions 1 | 10% | April 30, 2020 | - |
 | 13c. Team Sprint Revision 2 | 10% | May 7, 2020 | - |
 | 14. Final Sprint | 10% |  May 15, 2020 | - | 
