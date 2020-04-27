@@ -18,7 +18,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 11. [Team Sprint 2](./11.-team-sprint-2.md) | 5% | April 7, 2020 | - |
 | 12. [Team Sprint 3](./12.-team-sprint-3.md) | 5% | April 14, 2020 | - |
 | 13a. [Team Sprint 4](./13a-team-sprint-4.md) | 10% | April 23, 2020 | - |
-| 13b. Team Sprint Revisions 1 | 10% | May3, 2020 | - |
+| 13b. Team Sprint Revisions 1 | 10% | May 3, 2020 | - |
 | 13c. Team Sprint Revision 2 | 10% | May 10, 2020 | - |
 | 14. Final Sprint | 10% |  May 18, 2020 | - | 
 | 15. Classroom Participation | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
