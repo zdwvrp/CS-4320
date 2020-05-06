@@ -4,7 +4,7 @@
 
 [Getting Started *original*](./references/getting-started.md)
 
-[**Current Assignment: 13**](./assignments/13b.-team-sprint-5.md)
+[**Current Assignment: 13c**](./assignments/13c.-team-sprint-6.md)
 
 [Assignment Calendar](./assignments/00-assignment-calendar.md)
 
