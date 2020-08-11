@@ -27,4 +27,4 @@
 2. [Assignment Shuffling](https://vimeo.com/402646730) ![video](./references/video.jpeg)
 3. [Video Lectures](https://vimeo.com/402647377) ![video](./references/video.jpeg)
 
-
+All Materials Copyright 2020, Sean P. Goggins 
