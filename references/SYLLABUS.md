@@ -6,16 +6,14 @@
  - _The syllabus and the course schedule will evolve based on student progress. We will never alter the syllabus for assignments in the past or percentage of the grade. Topics may be changed and assignments substituted as necessary. Please make sure you are looking at the current version of the syllabus from Canvas at all times.  Any changes will be announced in class as well._
  - **Prerequisite Courses CS2050, CS3380**
 
-## Office Hours:
-- Caleb Heinzman: 12:15-1:15 Tuesday/Thursday https://missouri.zoom.us/my/sociallycompute
-- Wenyi Lu: 11am - 12pm Friday https://missouri.zoom.us/my/sociallycompute
-- Dr. Goggins: 2pm - 3:15pm Tuesday/Thursday, and by appointment or over Slack https://missouri.zoom.us/my/sociallycompute
+## Student Hours:
+- Wenyi Lu: TBD
+- Dr. Goggins: TBD
 
 
 ## Git and Github 
 ```quote
-"Git Back ... git .git ... git pull to where you once git forked ..."
--- The Beatles 
+""
 ```
 1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
 2. Git and Github are TEAM oriented software engineering technologies. Teamwork is now organic to computing, programming, developing, designing, and many parts of life. 
@@ -43,10 +41,9 @@
 ## Instructors
 1. Teaching Assistant
 For all technical questions, grade questions or questions regarding the class, first, make sure you have read the syllabus. Your second point of contact are the Teaching Assistant (TA) for this class. They will raise any issues to Goggins if they are unable to answer your questions.  The TA's for this course are:
-  - Caleb [calebheinzman@mail.missouri.edu](mailto:calebheinzman@mail.missouri.edu) Office Hours TBD (Naka 252).
+  - Wenyi Lu
 2. Instructor
-  - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu)Phone: 215-948-2729 Office: 113 Naka Hall Office Hours: TBD.  
-
+  - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu) 
 
 ## Meeting Schedule
 _Tuesday and Thursday 2:00 – 3:15 PM_
@@ -175,3 +172,19 @@ _Students with Disabilities:_
 
 ## Recording Course Activities
  - _University of Missouri System Executive Order No. 38 lays out principles regarding the sanctity of classroom discussions at the university. The policy is described fully in Section 200.015 of the Collected Rules and Regulations._ _ **In this class, students are not allowed to make audio or video recordings of course activity unless specifically granted permission by Dr. Goggins** __. However, the redistribution of audio or video recordings of statements or comments from the course to individuals who are not students in the course is prohibited without the express permission of the faculty member and of any students who are recorded. Students found to have violated this policy are subject to discipline in accordance with provisions of Section 200.020 of the Collected Rules and Regulations of the University of Missouri pertaining to student conduct matters._
+
+## Decreasing the Risk of COVID-19 in Classrooms and Labs
+
+MU cares about the health and safety of its students, faculty, and staff. To provide safe, high-quality education amid COVID-19, we will follow several specific campus policies in accordance with the advice of the Center for Disease Control and Boone County health authorities. This statement will be updated as information changes.
+ - If you are experiencing any COVID-related symptoms, or are otherwise feeling unwell, do not attend in-person classes and contact your health care provider and/or student health immediately. COVID symptoms include: fever greater than 100.4 or chills; cough, shortness of breath or difficulty breathing; fatigue; unexplained muscle or body aches; headache; new loss of taste or smell; sore throat; congestion or runny nose; nausea or vomiting; diarrhea.
+ - We will all wear face coverings while in the classroom, unless you have a documented exemption due to a disability or medical condition.
+ - We will maintain a 6-foot distance from each other at all times (except in specific lab/studio courses with other specific guidelines for social distancing).
+ - We will enter the classroom and fill the room starting at the front, filing all the way across a row. When class ends, we will exit the row nearest to the door first; the instructor or TA will give the signal for the next row to exit, in the same manner.
+ - Online office hours will be available for all students.
+ - This course will provide pre-recorded lectures and not require student participation in the lecture sessions. The instructor will be present during lecture sessions in accordance with policy and their own health status.
+
+Compliance with these guidelines is required for all; anyone who fails to comply will be subject to the accountability process, as stated in the University’s Collected Rules and Regulations, Chapter 200 Student Code of Conduct.
+
+If an instructor has concerns about how a student is following COVID-19 policies and protocols, please report those concerns to the Office of the Dean of Students. You can fill out a COVID Safety Measures Reporting Form here: https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38
+
+By taking the above measures, we are supporting your health and that of the whole Mizzou community. Thank you in advance for joining me and your peers in adhering to these safety measures. 
