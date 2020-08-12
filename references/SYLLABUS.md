@@ -13,7 +13,7 @@
 
 ## Git and Github 
 ```quote
-""
+"The scariest moment is always just before you start." --Stephen King
 ```
 1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
 2. Git and Github are TEAM oriented software engineering technologies. Teamwork is now organic to computing, programming, developing, designing, and many parts of life. 
