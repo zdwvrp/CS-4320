@@ -1,4 +1,6 @@
 # Syllabus
+**Classroom attendance for this course is not required in Fall, 2020**
+
 
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
@@ -47,7 +49,6 @@ For all technical questions, grade questions or questions regarding the class, f
 
 ## Meeting Schedule
 _Tuesday and Thursday 2:00 – 3:15 PM_
-_TUCKER HALL 18_
 
 ## Course Prerequisites
  - _CS 2050CS 3380_
