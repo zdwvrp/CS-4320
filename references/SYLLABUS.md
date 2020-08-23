@@ -1,6 +1,8 @@
 # Syllabus
 _CS4320/7320 remains listed as a face to face course, however your participation in classroom activities is at your own discretion. I will provide all materials for the course through its GitHub repository, and where feasible through Canvas. **GitHub is where you will learn how to work on a software team,** solving non-linear, difficult problems in the face of user’s who generally struggle to express what they want._
 
+**Points**: There are 1,000 points in this course. We will divide your final score by 10 to arrive at your grade. Canvas *should* to this for us, but we always double check. 
+
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
  - Graduate students enrolled in the course will be perform additional literature review and semester project work.
@@ -57,19 +59,6 @@ _CS4320/7320 remains listed as a face to face course, however your participation
 11. Essential Orthogonal Disciplines 
   - Documentation 
   - Security 
-
-### Official Topic Checklist Covered in Topics
-1. Overview of Software / Systems engineering and Development Life-cycle
-2. Project Management: Collaborative Development, Software Economics, Resource
-3. Version Control Systems
-4. Requirements Analysis: Eliciting and Modeling Requirements and Systems specifications
-5. Software / System Architectures and Types of Software
-6. Object Oriented Design,  Database and Data Services Integration
-7. System and Machine Interfaces
-8. Human Interfaces, Graphical User-interface Design, MVC
-9. Project Management and Collaboration Tools
-10. Software Development Methods: Traditional, Iterative, and Agile
-11. Software / System Testing and Security
 
 ## Instructors
 1. Teaching Assistant
