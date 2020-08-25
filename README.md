@@ -11,6 +11,7 @@
 ## Student Hours
 [Wednesday, August 26, at 2pm on my zoom channel](https://umsystem.zoom.us/my/sociallycompute) **We will find a regular time** 
 
+[Friday, August 28, at 1pm on my zoom channel](https://umsystem.zoom.us/my/sociallycompute) **We will find a regular time**
 
 
 -----
