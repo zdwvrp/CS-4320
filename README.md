@@ -9,7 +9,10 @@
 [Videos will be posted to a Vimeo Channel](https://vimeo.com/showcase/7480038)
 
 ## Student Hours
-[Wednesday, August 26, at 8am on my zoom channel](https://umsystem.zoom.us/my/sociallycompute) **We will find a regular time** 
+[Wednesday, August 26, at 2pm on my zoom channel](https://umsystem.zoom.us/my/sociallycompute) **We will find a regular time** 
+
+
+
 -----
 
 ## Notes on the Semester
