@@ -9,15 +9,16 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | **Assignments** | **Percentage of Grade** | **Due Date** | **Readings** | 
 | --- | --- | -- | --- |
 | **Introduction to Software Engineering** ||
-| 1. GitHub Assignment | 4% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and 2 Papers](../01-introduction-to-software-engineering/readings/_Module-1-Readings.md) |
-| 2. Resume Submission | 1% | Saturday, August 29, 2020 | na | 
-| 3. NATO Papers | 4% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
+| 1. GitHub Assignment | 2% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and 2 Papers](../01-introduction-to-software-engineering/readings/_Module-1-Readings.md) |
+| 3. NATO Papers | 2% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
+| 3. Fork and Pull | 2% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
+| 4. Github User ID Submission | 0% | Saturday, August 29, 2020 | n/a |
 | **Software Engineering Models and Methods** ||
-| 1. Choose You Methods | 5% | Saturday, September 5, 2020 | [TBD]() |
-| 2. Build a Model | 5% | Saturday, September 5, 2020 | [TBD]() |  
+| 1. Choose You Methods | 3% | Saturday, September 5, 2020 | [TBD]() |
+| 2. Build a Model | 2% | Saturday, September 5, 2020 | [TBD]() |  
+| 3. Resume Submission | 1% | Saturday, August 29, 2020 | na | 
 | **Requirements Management** ||
 | 1. Requirements Analysis  | 5% | Saturday, September 12, 2020 | [TBD]() | 
-| 2. Requirements Analysis (individual) | 5% | Saturday, September 12, 2020 | [TBD]() | 
 | **Systems Theory and Ethics** ||
 | 1. Create | 5% |  Saturday, September 19, 2020 | [TBD]() | 
 | **Technology Archicture and Software Design** ||
@@ -32,9 +33,9 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | **Maintenance and Evolution**
 | 1. TBD | 5% | Saturday, October 24, 2020 | [TBD]() |
 | **Software Engineering Projects** ||
-| 1. Requirements Analysis for Semester Project | 10% | Saturday, October 31, 2020 | [TBD]() |
+| 1. Requirements Analysis for Semester Project | 34% | Five iterations due between Saturday, October 31, 2020 and Saturday December 12, 2020 | [TBD]() |
 | **Essential Orthogonal Disciplines** ||
-| 1. Documentation | 5% | Saturday, November 7, 2020 | [TBD]() |
-| 2. Security | 5% | Saturday, November 7, 2020 | [TBD]() |
+| 1. Documentation | 2% | Saturday, November 7, 2020 | [TBD]() |
+| 2. Security | 2% | Saturday, November 7, 2020 | [TBD]() |
 | **Mutual Aid and Discussion Forum Engagement Quality** ||
 | 1. Engagement | 10% | Analysis of Class Participation and Contribution Throughout, with team feedback. | - |
