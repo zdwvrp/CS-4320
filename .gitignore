@@ -8,9 +8,17 @@ __pycache__/
 # C extensions
 *.so
 
-# Powerpoint
+# Office Files
 *.pptx
 *.ppt
+*.doc
+*.docx
+.ppt
+.pptx
+.doc
+.docx
+.xls
+.xlsx
 
 # Distribution / packaging
 .Python

@@ -1,7 +1,4 @@
 # Syllabus
-_CS4320/7320 remains listed as a face to face course, however your participation in classroom activities is at your own discretion. I will provide all materials for the course through its GitHub repository, and where feasible through Canvas. **GitHub is where you will learn how to work on a software team,** solving non-linear, difficult problems in the face of user’s who generally struggle to express what they want._
-
-**Points**: There are 1,000 points in this course. We will divide your final score by 10 to arrive at your grade. Canvas *should* to this for us, but we always double check. 
 
 ## Introduction
  - This course will provide in-depth coverage of software engineering. The concepts presented are applicable to all types of software systems. Additionally, the course will develop the student's skills of interpersonal communication, team collaboration, project management, requirements analysis and research. After successfully completing this course, you will be able to apply fundamental software engineering concepts including analyzing, specifying, and designing large-scale systems; system implementation, testing and deployment.
@@ -13,52 +10,33 @@ _CS4320/7320 remains listed as a face to face course, however your participation
 - Wenyi Lu: TBD
 - Dr. Goggins: TBD
 
+
+## Git and Github 
+```quote
+""
+```
+1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
+2. Git and Github are TEAM oriented software engineering technologies. Teamwork is now organic to computing, programming, developing, designing, and many parts of life. 
+ 
+
+## Participation in Class and TA Office Hours
+1. **This course is project based. Your assignments will involve the routine submission of working code on GitHub.**
+2. You will not be able to learn the material if you are not in class. Office hours exist to help you work past obstacles that emerge after class, not repeat material presented in class. Be present. Participate. 
+3. The first few weeks we will work through tooling issues with you, after that we expect you have learned how to use the slack channel and Google Each other. 
+4. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/software-eng-spring-2020  
+
 ## Topics
-### Our Topical Path Through the Semester 
-1. Introduction to Software Engineering
-  - Software Engineering as Systems Thinking
-  - Origins of Software Engineering
-  - Git: Distributed Version Control
-2. Software Engineering Models and Methods
-  - Modeling Software
-  - Methods: The Software Development Lifecycle
-3. Requirements Analysis and Management
-  - Requirements Management Processes and Tools
-  - Working with Use Cases
-4. Systems Theory and Ethics
-  - Systems Theory in Software Engineering
-  - Ethics in Software Engineering
-  - Collaboration, Coordination, and Group Work
-  - Conflict and Communication
-  - Metrics and Measurement
-  - Community Building
-  - Software as a Complex System
-5. Technology Architecture and Software Design
-  - An Overview of Technology Architecture and Software Design
-  - Sketching
-  - Prototyping
-  - Design Modeling
-6. Human Computer Interaction and Social Computing
-  - People
-  - HCI: Human Computer Interaction
-  - Social Computing
-7. Construction
-  - Software Frameworks
-  - Programming Languages, Databases, and Algorithms 
-  - Continuous Integration 
-  - Releasing Software 
-8. Testing 
-  - Test Driven Development 
-  - Writing Software Tests and Evaluating Test Coverage
-  - Continuous Integration and Testing
-9. Maintenance and Evolution 
-  - Modifying Released Software 
-  - Managing Dependencies 
-  - Evaluating the Impact of Proposed Changes
-10. Software Engineering Projects
-11. Essential Orthogonal Disciplines 
-  - Documentation 
-  - Security 
+1. Overview of Software / Systems engineering and Development Life-cycle
+2. Project Management: Collaborative Development, Software Economics, Resource
+3. Version Control Systems
+4. Requirements Analysis: Eliciting and Modeling Requirements and Systems specifications
+5. Software / System Architectures and Types of Software
+6. Object Oriented Design,  Database and Data Services Integration
+7. System and Machine Interfaces
+8. Human Interfaces, Graphical User-interface Design, MVC
+9. Project Management and Collaboration Tools
+10. Software Development Methods: Traditional, Iterative, and Agile
+11. Software / System Testing and Security
 
 ## Instructors
 1. Teaching Assistant
@@ -69,34 +47,6 @@ For all technical questions, grade questions or questions regarding the class, f
 
 ## Meeting Schedule
 _Tuesday and Thursday 2:00 – 3:15 PM_
-
-
-## Git and Github 
-1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
-2. Git and Github are TEAM oriented software engineering technologies. Teamwork is now organic to computing, programming, developing, designing, and many parts of life. 
- 
-
-## Participation in Class is Option, and TA Student Hours
-1. **This course is project based. Your assignments will involve the routine submission of working code on GitHub.**
-2. The first few weeks we will work through tooling issues with you, after that we expect you have learned how to use the slack channel and Google Each other. 
-3. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/software-eng-spring-2020 
-
-### Expectations 
-1. First, my basic expectations: For you to have viewed each course day's videos (short videos!), and any associated reading assignments prior to the scheduled lecture date. Again, **you are NOT required to be in the classroom**. Keeping up with materials will be essential for keeping us “together” on our path. 
-2. I will have student hours on zoom every week. We can discuss the times that work best in the coming weeks.  
-3. The course will include discussion forums where you get to know each other, and discuss questions I pose for you in the assignments. 
-4. You will have access to a Slack Channel, which will usually be the swiftest channel to get my attention on during the semester. Messaging systems like Slack are also usually more appropriate for team coordination work, when compared with more asynchronous tools like discussion forums. 
-5. You will have routine "self assessments" in Canvas. They will not be a component of your grade, except that you will be required to complete them.  Your "score" replaces some of the feedback on how well you are understanding the material that I historically discern from confused looks in the classroom. But your "score" is not graded. Just completing the self assessment. 
-6. Software engineering methods common in open source software are similar to those employed in corporate environments, and we will largely collaborate on open source projects. Some of my choosing, some of your own choosing.  All of this work will take place on GitHub, and be submitted as an assignment using Canvas. 
-7. You have my personal commitment to creating a high quality learning opportunity for you, regardless of how you choose to participate. 
-
-
-## Comments on Learning in the Present Day
-People learn through a combination of social engagement with others, and enough cognitive stress to push you past what you already know, or think you know. While avoiding too much cognitive stress. Its important therefore that you take the time to engage with your course mates, and folks on teams you are assigned to work in for parts of the course. In the open source communities where I do research and contribute there is a lot of asynchronous coordination using GitHub issues, email lists, and Slack channels. Each group should make its own decisions about internal coordination mechanisms. 
-
-Emotional stress also inhibits learning, and in present times many of us are affect by these types of "learning inhibitors". As your professor this semester, I am personally committed to respecting any stress/anxiety related, or other health challenges that get in your way this semester. 
-
-My focus will be on ensuring you have the opportunity to understand and work with this course's curricula, and conclude your semester with a successful experience in this course regardless of the challenges we may face together. Learning to work effectively in software teams is a significantly different type of learning than mastering algorithms, data structures, or a particular language.  
 
 ## Course Prerequisites
  - _CS 2050CS 3380_
@@ -178,13 +128,9 @@ Grades will be **+/-** for both Undergraduates and Graduate Students. Per assign
 ## Course Policies
 
 ### Participation, out-of-class exercises and in-class quizzes
-**FALL 2020 PANDEMIC NOTE: PLEASE SEE THE STATEMENT ON PARTICIPATION IN MY EMAILS**
-
-Mastery of these topics is achieved through execution of the software engineering process. The course material and exercise sequences are designed to build a foundation upon which to successfully participate in a team-oriented software engineering project.
-
-**There will be periodic short quizzes in this course**.  These will be announced in class during the session before each quiz. It is expected that you are current on your lecture notes, readings and assignments from the week prior to each quiz. There will be no more than five quizzes throughout the semester. If you are not present for a quiz you will not get credit.
-
-Each exercise and lecture topic builds upon the concepts and lessons of the previous days and weeks, and therefore they are each critical to the progression of the class. The solution to each exercise will be provided and/or discussed after its due date. For this reason, **no late Exercises will be accepted**. All exercises are designed and intended to be an individual effort, _collaborative implementation or copying_ will result in a zero (0) on the exercise for all students involved. During lecture times, participation exercises and quizzes will be administered. These serve two purposes: to gauge the comprehension of the class regarding the recent lecture topics and concepts, and to survey lecture participation. **These participation events cannot be made up when missed, resulting in a zero (0) grade.**
+You are expected to have read the assigned work, and watched the videos prior to our scheduled class session. **ATTENDENANCE AT THE LECTURE TIME IS NOT REQUIRED**. 
+ - I will use student hours, and the lecture period to clear up any questions you have about readings or assignments. 
+ - 
 
 ### Exceptions due to outside factors
 Exceptions will be made to the above policies for only the following conditions: a) illness that is documented by a medical professional; b) pre-absence email notification to the instructor regarding illness, family related matters, career related matters. **WARNING:** information technology related problems/failures/challenges are not appropriate excuses for late work. As a student in a senior-level Computer Science course, it is expected that you are capable of mitigating the risks associated with technology!
