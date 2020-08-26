@@ -104,11 +104,11 @@ master**
 1. Document your completion of the exercise
 -   Switch to your branch and produce a GIT log using:
 ```
-git log \--stat \> branch\_*pawprint*.log
+git log --stat > branch_*pawprint*.log
 ```
 2. Switch to the master branch and produce another log using:
 ```
-    git log \--stat \> master\_*pawprint*.log**
+    git log --stat > master_*pawprint*.log**
 ```
 3. Zip the two files along with the screenshot from the first part **together**
 4. Submit to canvas before due date
