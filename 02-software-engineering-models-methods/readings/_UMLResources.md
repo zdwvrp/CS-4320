@@ -9,6 +9,5 @@
  - http://edn.embarcadero.com/article/31863
  
 ## Cheatsheets
- - https://www.scribd.com/doc/399157/UML-2-0-Cheatsheet
  - http://loufranco.com/wp-content/uploads/2012/11/cheatsheet.pdf
   
