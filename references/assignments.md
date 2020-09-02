@@ -14,8 +14,8 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 3. Fork and Pull | 2% | Saturday, August 29, 2020 | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../01-introduction-to-software-engineering/_Module-1-Readings.md) |
 | 4. Github User ID Submission | 0% | Saturday, August 29, 2020 | n/a |
 | **Software Engineering Models and Methods** ||
-| 1. Choose You Methods | 3% | Saturday, September 5, 2020 | [TBD]() |
-| 2. Build a Model | 2% | Saturday, September 5, 2020 | [TBD]() |  
+| 1. Choose You Methods | 3% | Saturday, September 5, 2020 | [Readings List](../02-software-engineering-models-methods/readings/_Module-2-Readings.md) |
+| 2. Build a Model | 2% | Saturday, September 5, 2020 | [Readings List](../02-software-engineering-models-methods/readings/_Module-2-Readings.md) |  
 | 3. Resume Submission | 1% | Saturday, August 29, 2020 | na | 
 | **Requirements Management** ||
 | 1. Requirements Analysis  | 5% | Saturday, September 12, 2020 | [TBD]() | 
