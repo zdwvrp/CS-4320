@@ -1,5 +1,5 @@
 # Exercise 2.1: Choose Your Methods
-## Group Exercise for Course Groups Set 2
+## Group Exercise for Course Groups (Same as last groups)
 **Groups are assigned in Canvas**
 
 Your group (Same Groups as Last Week) will be working together for several weeks.  
