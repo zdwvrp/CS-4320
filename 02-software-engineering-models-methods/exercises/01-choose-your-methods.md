@@ -1,8 +1,8 @@
 # Exercise 2.1: Choose Your Methods
-## Group Exercise for Course Groups Set 2
+## Group Exercise for Course Groups (Same as last groups)
 **Groups are assigned in Canvas**
 
-Your group (Course Group Set 2) will be working together for several weeks.  
+Your group (Same Groups as Last Week) will be working together for several weeks.  
 We anticipate having exercises related to stages of the software development life cycle (requirements, design, implementation, testing, and deployment. NOTE: These are exercises, not the semester project.)
 
 Discuss as a group which method(s) do you think you will use, what will you use it/them for, and why did you make those choices?  
