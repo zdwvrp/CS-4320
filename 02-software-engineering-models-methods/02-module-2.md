@@ -11,3 +11,4 @@ Please consult [assignments](../references/assignments.md) for due dates.
 
 ## Videos
 1. [Overview of Methods and Models](https://vimeo.com/455321540)
+2. [Data Modeling in Class Zoom Link](https://vimeo.com/455853230)
