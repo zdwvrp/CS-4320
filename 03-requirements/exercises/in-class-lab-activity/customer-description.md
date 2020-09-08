@@ -29,3 +29,6 @@ The goal of the working groups is to refine the metrics and to work with softwar
 3. Common Metrics
 4. Value
 5. Risk
+
+
+More information is available in [The Individual Requirements Assignment as well](../03.2-individual-requirements-analysis.md)

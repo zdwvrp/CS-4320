@@ -1,16 +1,18 @@
-## RW2 - Tuesday Lab, Week 2: Brainstorming Activity
+## Requirements Brainstorming Activity
+
+You will participate in class using Zoom Breakouts, but also have discussion forums for your groups, which you can access on Canvas: https://missouri.instructure.com/courses/41646/discussion_topics/773255
 
 ### Steps in Lab
 1. Review Materials (15 Minutes) 
-    - Review the Role of the customer
-    - Read the customer statement of need (description on the CHAOSS and Augur Projects)
-    - Read the description of your assigned role. 
-        - Customer
-        - User 1
-        - User 2
-        - Requirements Analyst
-        - Software Engineer
-2. Perform requirements elicitation using the brainstorming technique.
+    - [Review the Role of the customer](./customer.md)
+    - [Read the customer statement of need (description on the CHAOSS and Augur Projects)](./customer-description.md)
+    - Read the description of your assigned role. Having a software engineer, requirements analyst and user are sufficient, since your groups are of 3-4 people. 
+        - [Customer](./customer.md)
+        - [User 1](./user1.md)
+        - [User 2](./user2.md)
+        - [Requirements Analyst](requirements-analyst.md)
+        - [Software Engineer](software-engineer.md)
+2. Perform requirements elicitation using the brainstorming technique (See next section).
 
 ### Brainstorming Phase
 Your group is to perform a requirements elicitation activity using the brainstorming technique. The goal is for the group to generate a set of requirements, written in English sentences, for the CHAOSS-Augur software
