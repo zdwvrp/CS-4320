@@ -18,7 +18,8 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 2. Build a Model | 2% | Saturday, September 5, 2020 | [Readings List](../02-software-engineering-models-methods/readings/_Module-2-Readings.md) |  
 | 3. Resume Submission | 1% | Saturday, August 29, 2020 | na | 
 | **Requirements Management** ||
-| 1. Requirements Analysis  | 5% | Saturday, September 12, 2020 | [TBD]() | 
+| 1. Group Requirements Analysis  | 2% | Monday, September 14, 2020 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
+| 2. Individual Requirements Analysis  | 3% | Monday, September 14, 2020 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
 | **Systems Theory and Ethics** ||
 | 1. Create | 5% |  Saturday, September 19, 2020 | [TBD]() | 
 | **Technology Archicture and Software Design** ||

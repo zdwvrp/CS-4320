@@ -7,3 +7,7 @@ Please consult [assignments](../references/assignments.md) for due dates.
     - [Goggins Book Chapters 4 and 5](./readings/Goggins-2020-WIP.pdf)
 2. [Slides](./slides)
 3. [Exercises](./exercises)
+
+
+## Videos
+1. [Overview of Methods and Models](https://vimeo.com/455321540)
