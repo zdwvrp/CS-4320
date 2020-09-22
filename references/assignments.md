@@ -21,9 +21,9 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 1. Group Requirements Analysis  | 2% | Monday, September 14, 2020 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
 | 2. Individual Requirements Analysis  | 3% | Monday, September 14, 2020 | [Requirements Readings](../03-requirements/readings/_module-3-readings.md) | 
 | **Systems Theory and Ethics** ||
-| 1. Create | 5% |  Tuesday, September 22, 2020 | [TBD](../04-systems-theory-and-ethics/readings.md) | 
+| 1. Create | 5% |  Tuesday, September 22, 2020 | [Systems Theory and Ethics Readings](../04-systems-theory-and-ethics/readings.md) | 
 | **Technology Archicture and Software Design** ||
-| 1. Design | 5% |  Saturday, September 26, 2020 | [TBD]() | 
+| 1. Design | 5% |  Tuesday, September 29, 2020 | [TBD](../05-architecture-design/_design_readings.md) | 
 | **Human Computer Interaction and Social Computing** ||
 | 1. User Experience Focus + Integration Focus | 5% | Saturday, October 3, 2020 | [TBD]() |
 | **Construction** ||
