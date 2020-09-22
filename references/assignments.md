@@ -23,7 +23,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | **Systems Theory and Ethics** ||
 | 1. Create | 5% |  Tuesday, September 22, 2020 | [Systems Theory and Ethics Readings](../04-systems-theory-and-ethics/readings.md) | 
 | **Technology Archicture and Software Design** ||
-| 1. Design | 5% |  Tuesday, September 29, 2020 | [TBD](../05-architecture-design/_design_readings.md) | 
+| 1. Design | 5% |  Tuesday, September 29, 2020 | [Design Readings](../05-architecture-design/_design_readings.md) | 
 | **Human Computer Interaction and Social Computing** ||
 | 1. User Experience Focus + Integration Focus | 5% | Saturday, October 3, 2020 | [TBD]() |
 | **Construction** ||
